@@ -4,7 +4,7 @@ A passionate fullstack developer from Colombia
 
 - 🔭 I’m currently working on [Traitants](https://traitants.com/) and [Iqonno](https://iqonno.com/)
 - 👯 I’m collaborating in [Brightcoders](http://www.brightcoders.com/)
-- 🌱 I’m currently learning [Python](https://www.python.org/), [Java](https://www.java.com/) and [React native](https://reactnative.dev/)
+- 🌱 I’m currently learning [Python](https://www.python.org/), [Reactjs](https://reactjs.org/) and [React native](https://reactnative.dev/)
 - 💬 Ask me about HTML, CSS, Ruby and Rails and design
 - 📫 How to reach me: brayandiazc@gmail.com
 - ⚡ Fun fact: I do 3d design and render
