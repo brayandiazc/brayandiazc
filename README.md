@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/brayandiazc/brayandiazc">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayandiazc&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/brayandiazc/brayandiazc">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=brayandiazc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brayan Diaz C  GitHub Stats" />
+</a>  
+  
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/brayandiazc" alt="profile views">
+</p>
