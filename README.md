@@ -22,26 +22,26 @@
 
 - ⚡ Fun fact **I am afraid of insects**
 
-### 🔧 Programming Languages
+### 🧑‍💻 Programming Languages
 
 Ruby, Python, javascript
 
-### 🎉 Frontend Development
+### 🎨 Frontend Development
 
 Html, CSS, Sass, Bootstrap, Bulma, Materialize
 <!-- Tailwind, React, Svelte, Redux, Webpack, Babel -->
 
-### 📚 Static Site Generators
+### 🎉 Static Site Generators
 
 Jekyll
 <!-- Gatsby, Nextjs, Netlify CMS, WordPress, Ghost, Middleman -->
 
-### 💻 Backend Development
+### 🔨 Backend Development
 
 Ruby on Rails, NodeJs, Express
 <!-- Nginex, Nestjs -->
 
-### 📚 Databse
+### 🔧 Databse
 
 Sql, Sqlite, Postgres, MySQL, Redis
 <!-- NoSql, MongoDB, Firebase, Firestore, MariaDB, ElasticSearch -->
@@ -51,7 +51,7 @@ Sql, Sqlite, Postgres, MySQL, Redis
 Ruby on Rails, Flask
 <!-- Django -->
 
-### 📚 DevOps
+### 🔒️ DevOps
 
 Bash, Linux
 <!-- Docker, Azure, Amazon web services, jenkins, Google cloud -->
@@ -61,11 +61,11 @@ Bash, Linux
 Heroku
 <!-- Firebase, Amplify, Netlify -->
 
-### 📚 Software
+### 🗃️ Software
 
 Postman, Illustraitor, Photoshop, Inkscape, Gimp, Autocad, Sketchup, Unity 3d
 
-### 📚 Others
+### 📝 Others
 
 Linux, Git, Github, Gitlab
 
