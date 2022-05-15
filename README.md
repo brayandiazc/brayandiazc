@@ -85,9 +85,13 @@ D3js, Chartjs, Canvasjs -->
 
 jest -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayandiazc&show_icons=true&locale=en&layout=compact" alt="brayandiazc" /></p>
+<a href="https://github.com/brayandiazc/brayandiazc">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayandiazc&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayandiazc&show_icons=true&locale=en" alt="brayandiazc" /></p>
+<a href="https://github.com/brayandiazc/brayandiazc">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=brayandiazc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brayan Diaz C  GitHub Stats" />
+</a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiazc&" alt="brayandiazc" /></p>
 
@@ -106,8 +110,6 @@ jest -->
   <a href="https://dribbble.com/brayandiazc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="brayandiazc" height="30" width="40" /></a>
   <a href="https://www.behance.net/brayandiazc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brayandiazc" height="30" width="40" /></a>
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brayandiazc&label=Profile%20views&color=0e75b6&style=flat" alt="brayandiazc" /> </p>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/brayandiazc" alt="profile views">
