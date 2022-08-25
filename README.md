@@ -24,7 +24,7 @@
 
 ### 🧑‍💻 Programming Languages
 
-Ruby, Python, javascript
+Ruby, Python, javascript, Java
 
 ### 🎨 Frontend Development
 
@@ -33,7 +33,7 @@ Html, CSS, Sass, Bootstrap, Bulma, Materialize
 
 ### 🎉 Static Site Generators
 
-Jekyll
+Jekyll, Astro
 <!-- Gatsby, Nextjs, Netlify CMS, WordPress, Ghost, Middleman -->
 
 ### 🔨 Backend Development
@@ -48,7 +48,7 @@ Sql, Sqlite, Postgres, MySQL, Redis
 
 ### 📚 Frameworks
 
-Ruby on Rails, Flask
+Ruby on Rails, Flask, Spring
 <!-- Django -->
 
 ### 🔒️ DevOps
