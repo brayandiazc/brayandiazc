@@ -2,13 +2,13 @@
 
 ## Full Stack Ruby on Rails Developer
 
-- 🔭 I’m currently working on [Desafio Latam](https://desafiolatam.com/)
+- 🔭 I’m currently working on [Desafio Latam](https://desafiolatam.com/) and [Adalid](https://www.adalid.cl/)
 
 - 🌱 I’m currently learning **Frontend, Devops, and mobile**
 
 - 👯 I’m looking to collaborate on [Brightcoders](http://www.brightcoders.com/)
 
-- 🤝 I’m looking for help with [Propietta](https://propietta.com/)
+- 🤝 I’m looking for help with [Propietta](https://propietta.com/) and [Traitans](https://traitants.com/)
 
 - 👨‍💻 All of my projects are available at [https://brayandiazc.com/projects/](https://brayandiazc.com/projects/)
 
