@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **brayandiazc@gmail.com**
 
-- 📄 Know about my experiences [https://brayandiazc.com/](https://brayandiazc.com/)
+- 📄 Know about my experiences [brayandiazc.com/](https://brayandiazc.com/)
 
 - ⚡ Fun fact **I am afraid of insects**
 
