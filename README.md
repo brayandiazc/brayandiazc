@@ -1,12 +1,12 @@
 # Hi 👋, I'm Brayan Diaz C
 
-## Full Stack Ruby on Rails Developer
+## Full Stack Ruby on Rails Developer | Teacher | Tech Content creator
 
-- 🔭 I’m currently working on [Desafio Latam](https://desafiolatam.com/) and [Adalid](https://www.adalid.cl/)
+- 🔭 I’m currently working on [Propietta](https://propietta.com/), [Desafio Latam](https://desafiolatam.com/) and [Adalid](https://www.adalid.cl/)
 
-- 🌱 I’m currently learning **Backend, Frontend, Devops, and mobile**
+- 🌱 I’m currently specializing in **Python**, **React**, **React Native**, and **AWS**
 
-- 👯 I’m looking to collaborate on [Brightcoders](http://www.brightcoders.com/)
+- 👯 I’m collaborating with [Brightcoders](http://www.brightcoders.com/)
 
 - 🤝 I’m looking for help with [Propietta](https://propietta.com/) and [Traitans](https://traitants.com/)
 
@@ -20,15 +20,15 @@
 
 - 📄 Know about my experiences [brayandiazc.com/](https://brayandiazc.com/)
 
-- ⚡ Fun fact **I am afraid of insects**
+- ⚡ Fun fact **I do architectural design and 3d**
 
 ### 🧑‍💻 Programming Languages
 
-Ruby, Python, javascript, Java
+Ruby, Python, javascript
 
 ### 🎨 Frontend Development
 
-Html, CSS, Sass, Bootstrap, Bulma, Materialize
+Html, CSS, Sass, Bootstrap, Bulma, Materialize, React JS
 <!-- Tailwind, React, Svelte, Redux, Webpack, Babel -->
 
 ### 🎉 Static Site Generators
@@ -49,16 +49,16 @@ Sql, Sqlite, Postgres, MySQL, Redis
 ### 📚 Frameworks
 
 Ruby on Rails, Flask, Spring
-<!-- Django -->
+<!-- Spring -->
 
 ### 🔒️ DevOps
 
-Bash, Linux
+Bash, Linux, Docker, Amazon web services
 <!-- Docker, Azure, Amazon web services, jenkins, Google cloud -->
 
 ### 📎 Backend as a Service(BaaS)
 
-Heroku
+Heroku, Render, Railway
 <!-- Firebase, Amplify, Netlify -->
 
 ### 🗃️ Software
@@ -67,7 +67,7 @@ Postman, Illustraitor, Photoshop, Inkscape, Gimp, Autocad, Sketchup, Unity 3d
 
 ### 📝 Others
 
-Linux, Git, Github, Gitlab
+Git, Github, Gitlab
 
 <!-- ### 📱 Mobile
 
