@@ -1,6 +1,6 @@
 # Hi 👋, I'm Brayan Diaz C
 
-## Full Stack Ruby on Rails Developer | Teacher | Tech Content creator
+## Full Stack Developer | Teacher | Tech Content creator
 
 - 🔭 I’m currently working on [Propietta](https://www.propietta.com/)
 
