@@ -1,6 +1,6 @@
 # Hola 👋, soy Brayan Díaz C
 
-Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de contenido tecnológico. Actualmente me especializo en Ruby, Python y JavaScript.
+Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de contenido tecnológico. Actualmente me especializo en Ruby, Python y JavaScript y sus frameworks.
 
 <!-- ## 💼 Trabajo actual
 
