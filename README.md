@@ -1,24 +1,35 @@
 # Hola 👋, soy Brayan Díaz C
 
-## Desarrollador Full Stack | Profesor | Creador de contenido tecnológico
+Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de contenido tecnológico. Actualmente me especializo en Ruby, Python y JavaScript.
 
-- 🔭 Actualmente estoy trabajando en [Propietta](https://www.propietta.com/)
+<!-- ## 💼 Trabajo actual
 
-- 🧑‍🏫 Actualmente enseño en [Universidad del Desarrollo](https://www.udd.cl/), [ACl Academy](https://www.aclti.com/es/), [Inforcap](https://inforcap.cl/), [Desafío Latam](https://www.desafiolatam.com/) y [Adalid](https://www.adalid.cl/)
+- 🔭 Actualmente estoy trabajando en [Propietta](https://www.propietta.com/) -->
 
-- 🌱 Me estoy especializando en **Ruby**, **Python**, **JavaScript**
+## 🎓 Experiencia en la enseñanza
+
+Actualmente enseño en:
+
+- [Universidad del Desarrollo](https://www.udd.cl/)
+- [Inforcap](https://inforcap.cl/)
+- [ACl Academy](https://www.aclti.com/es/)
+- [Desafío Latam](https://www.desafiolatam.com/)
+- [Adalid](https://www.adalid.cl/)
+
+## 🌐 Enlaces útiles
 
 - 👨‍💻 Todos mis proyectos están disponibles en [brayandiazc.com/projects](https://brayandiazc.com/projects/)
-
 - 📝 Regularmente escribo artículos en [brayandiazc.com/blog](https://brayandiazc.com/blog/)
+- 📄 Conoce mis experiencias en [brayandiazc.com](https://brayandiazc.com/)
+
+## 💡 Habilidades y conocimientos
 
 - 💬 Pregúntame sobre **Frontend**, **Backend** y **Diseño**
-
-- 📫 Cómo contactarme: **brayandiazc@gmail.com**
-
-- 📄 Conoce mis experiencias en [brayandiazc.com/](https://brayandiazc.com/)
-
 - ⚡ Dato curioso: **Hago diseño arquitectónico y 3D**
+
+## 📫 Contacto
+
+- Puedes contactarme a través de mi correo electrónico: **brayandiazc@gmail.com**
 
 ### 🧑‍💻 Lenguajes de programación
 
