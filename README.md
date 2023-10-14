@@ -3,7 +3,6 @@
 Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de contenido tecnológico. Actualmente me especializo en Ruby, Python, JavaScript y sus frameworks derivados.
 
 <!-- ## 💼 Trabajo actual
-
 - 🔭 Actualmente estoy trabajando en [Propietta](https://www.propietta.com/) -->
 
 ## 🎓 Experiencia en la enseñanza
@@ -29,7 +28,7 @@ Actualmente enseño en:
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **brayandiazc@gmail.com**
+- Puedes contactarme a través de mi correo electrónico: **<brayandiazc@gmail.com>**
 
 ### 🧑‍💻 Lenguajes de programación
 
@@ -83,16 +82,18 @@ tensorflow -->
 
 ![RSpect](https://img.shields.io/badge/-Rspec-FF0000?style=flat-square&logo=rspec&logoColor=white) ![MiniTest](https://img.shields.io/badge/-MiniTest-6E7A8A?style=flat-square&logo=minitest&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-<p align=""><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayandiazc&show_icons=true&locale=en&layout=compact" alt="brayandiazc" /></p>
+<p align="">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayandiazc&show_icons=true&locale=en&layout=compact" alt="brayandiazc" />
+</p>
 
-<p align=""><img align="" src="https://github-readme-stats.vercel.app/api?username=brayandiazc&show_icons=true&locale=en" alt="brayandiazc" /></p>
+<p align="">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=brayandiazc&show_icons=true&locale=en" alt="brayandiazc" />
+</p>
 
-<p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiazc&" alt="brayandiazc" /></p>
+<p align="">
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiazc&" alt="brayandiazc" />
+</p>
 
 ## 🌐 Redes sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brayandiazc) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/brayandiazc/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCC6RSXwrhHFKlCerzm1HTVg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brayandiazc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayandiaz_c) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/brayandiazc) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@brayandiazc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/brayan.y.cardenas) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@brayandiazc)
-
-<p align="">
-  <img src="https://gpvc.arturio.dev/brayandiazc" alt="profile views">
-</p>
