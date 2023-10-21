@@ -2,8 +2,9 @@
 
 Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de contenido tecnológico. Actualmente me especializo en Ruby, Python, JavaScript y sus frameworks derivados.
 
-<!-- ## 💼 Trabajo actual
-- 🔭 Actualmente estoy trabajando en [Propietta](https://www.propietta.com/) -->
+## 💼 Trabajo actual
+
+- 🔭 Actualmente estoy desarrollando [Propietta](https://www.propietta.com/)
 
 ## 🎓 Experiencia en la enseñanza
 
@@ -82,7 +83,7 @@ tensorflow -->
 
 ![RSpect](https://img.shields.io/badge/-Rspec-FF0000?style=flat-square&logo=rspec&logoColor=white) ![MiniTest](https://img.shields.io/badge/-MiniTest-6E7A8A?style=flat-square&logo=minitest&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-<p align="">
+<!-- <p align="">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayandiazc&show_icons=true&locale=en&layout=compact" alt="brayandiazc" />
 </p>
 
@@ -92,7 +93,7 @@ tensorflow -->
 
 <p align="">
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiazc&" alt="brayandiazc" />
-</p>
+</p> -->
 
 ## 🌐 Redes sociales
 
