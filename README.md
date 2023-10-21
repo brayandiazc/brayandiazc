@@ -1,6 +1,6 @@
 # Hola 👋, soy Brayan Diaz C
 
-Soy un desarrollador Full Stack apasionado por enseñar y crear contenido relacionado con tecnología. En la actualidad, me especializo en Ruby, Python y JavaScript, junto con sus frameworks asociados. Además, cuento con experiencia en tecnologías en la nube, como AWS, Google Cloud y Microsoft Azure. Siempre estoy dispuesto a compartir mis conocimientos y explorar nuevas formas de aprovechar estas plataformas en la nube para crear soluciones tecnológicas innovadoras.
+Soy un desarrollador Full Stack apasionado por enseñar y crear contenido relacionado con tecnología. En la actualidad, me especializo en Ruby, Python y JavaScript, junto con sus frameworks asociados. Además, cuento con experiencia en tecnologías en la nube ☁️, como AWS, Google Cloud y Microsoft Azure. Siempre estoy dispuesto a compartir mis conocimientos y explorar nuevas formas de aprovechar estas plataformas en la nube para crear soluciones tecnológicas innovadoras. 🚀💻📚 ¡Vamos a seguir aprendiendo y creciendo juntos! 💪😄
 
 ## 💼 Trabajo actual
 
