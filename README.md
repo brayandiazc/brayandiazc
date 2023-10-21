@@ -1,6 +1,6 @@
 # Hola 👋, soy Brayan Diaz C
 
-Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de contenido tecnológico. Actualmente me especializo en Ruby, Python, JavaScript y sus frameworks derivados.
+Soy un desarrollador Full Stack apasionado por enseñar y crear contenido relacionado con tecnología. En la actualidad, me especializo en Ruby, Python y JavaScript, junto con sus frameworks asociados. Además, cuento con experiencia en tecnologías en la nube, como AWS, Google Cloud y Microsoft Azure. Siempre estoy dispuesto a compartir mis conocimientos y explorar nuevas formas de aprovechar estas plataformas en la nube para crear soluciones tecnológicas innovadoras.
 
 ## 💼 Trabajo actual
 
@@ -10,10 +10,10 @@ Soy un Desarrollador Full Stack apasionado por la enseñanza y la creación de c
 
 Actualmente enseño en:
 
+- [Desafío Latam](https://www.desafiolatam.com/)
 - [Universidad del Desarrollo](https://www.udd.cl/)
 - [Inforcap](https://inforcap.cl/)
 - [ACL Academy](https://www.aclti.com/es/)
-- [Desafío Latam](https://www.desafiolatam.com/)
 - [Adalid](https://www.adalid.cl/)
 
 ## 🌐 Enlaces útiles
@@ -94,6 +94,8 @@ tensorflow -->
 <p align="">
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiazc&" alt="brayandiazc" />
 </p> -->
+
+---
 
 ## 🌐 Redes sociales
 
