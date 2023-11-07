@@ -16,7 +16,6 @@ Actualmente enseño en:
 - [Universidad del Desarrollo](https://www.udd.cl/)
 - [Inforcap](https://inforcap.cl/)
 - [Adalid](https://www.adalid.cl/)
-- [ACL Academy](https://www.aclti.com/es/)
 
 ## 🌐 Enlaces útiles
 
