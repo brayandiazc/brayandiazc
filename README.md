@@ -1,8 +1,8 @@
 # Hola 👋, soy Brayan Diaz C
 
-Soy un Full Stack Engineer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
+Soy un Full Stack Engineer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
 
-Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona compartir mis conocimientos aportando innovación 🚀 y fomentando el aprendizaje continuo 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡 y disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro🌐.
+Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona compartir mis conocimientos aportando innovación 🚀 y fomentando el aprendizaje continuo 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro🌐.
 
 ## 💼 Proyectos Destacados
 
@@ -13,15 +13,15 @@ Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona comparti
 Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes enseño, proporcionándoles las herramientas necesarias para crecer en las areas que han elegido. A través de una metodología dinámica y llena de energía, me esfuerzo por hacer que los conceptos técnicos sean fáciles de aprender y aporten valor a su formación, utilizando ejemplos prácticos del mundo real. Estoy comprometido con crear un ambiente de aprendizaje donde la creatividad y el desarrollo personal de cada estudiante sean la prioridad, guiándolos hacia un desempeño excepcional. Colaboro profesionalmente con las siguientes instituciones:
 
 - [Desafío Latam](https://www.desafiolatam.com/)
+- [Adalid](https://www.adalid.cl/)
 - [Universidad del Desarrollo](https://www.udd.cl/)
 - [Inforcap](https://inforcap.cl/)
-- [Adalid](https://www.adalid.cl/)
 
 ## 🌐 Blog, Artículos y Videos
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/brayandiazc?tab=repositories)
 - 📝 Regularmente escribo artículos en mi [Blog](https://brayandiazc.com)
-- 📄 Soy muy activo en [Linkedin](https://linkedin.com/in/brayandiazc)
+- 📄 Soy muy activo en [LinkedIn](https://linkedin.com/in/brayandiazc)
 - 📽️ Subo videos cada semana en [YouTube](https://www.youtube.com/channel/UCC6RSXwrhHFKlCerzm1HTVg) y [TikTok](https://tiktok.com/@brayandiazc)
 - 📷 Imágenes y tonterías en [Instagram](https://instagram.com/brayandiaz_c) y [Twitter](https://twitter.com/brayandiazc)
 
