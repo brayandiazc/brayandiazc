@@ -12,18 +12,18 @@ Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona comparti
 
 Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes enseño, proporcionándoles las herramientas necesarias para crecer en las areas que han elegido. A través de una metodología dinámica y llena de energía, me esfuerzo por hacer que los conceptos técnicos sean fáciles de aprender y aporten valor a su formación, utilizando ejemplos prácticos del mundo real. Estoy comprometido con crear un ambiente de aprendizaje donde la creatividad y el desarrollo personal de cada estudiante sean la prioridad, guiándolos hacia un desempeño excepcional. Colaboro profesionalmente con las siguientes instituciones:
 
-- [Desafío Latam](https://www.desafiolatam.com/)
 - [Adalid](https://www.adalid.cl/)
-- [Universidad del Desarrollo](https://www.udd.cl/)
 - [Inforcap](https://inforcap.cl/)
+- [Desafío Latam](https://www.desafiolatam.com/)
+- [Universidad del Desarrollo](https://www.udd.cl/)
 
 ## 🌐 Blog, Artículos y Videos
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/brayandiazc?tab=repositories)
-- 📝 Regularmente escribo artículos en mi [Blog](https://brayandiazc.com)
 - 📄 Soy muy activo en [LinkedIn](https://linkedin.com/in/brayandiazc)
-- 📽️ Subo videos cada semana en [YouTube](https://www.youtube.com/channel/UCC6RSXwrhHFKlCerzm1HTVg) y [TikTok](https://tiktok.com/@brayandiazc)
+- 📝 Regularmente escribo artículos en mi [Blog](https://brayandiazc.com)
 - 📷 Imágenes y tonterías en [Instagram](https://instagram.com/brayandiaz_c) y [Twitter](https://twitter.com/brayandiazc)
+- 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/brayandiazc?tab=repositories)
+- 📽️ Subo videos cada semana en [YouTube](https://www.youtube.com/channel/UCC6RSXwrhHFKlCerzm1HTVg) y [TikTok](https://tiktok.com/@brayandiazc)
 
 ## 💡 Habilidades y conocimientos
 
