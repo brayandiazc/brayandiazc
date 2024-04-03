@@ -1,12 +1,12 @@
 # Hola 👋, soy Brayan Diaz C
 
-Soy un Full Stack Engineer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
+Un Full Stack Engineer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
 
 Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona compartir mis conocimientos aportando innovación 🚀 y fomentando el aprendizaje continuo 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro.
 
-## 💼 Proyectos Destacados
+## 💼 Proyectos
 
-- 🔭 Actualmente lidero el desarrollo de [Propietta](https://www.propietta.com/), una plataforma innovadora en el sector inmobiliario diseñada para simplificar el proceso de compra y venta de propiedades. Utilizamos avisos físicos inteligentes para conectar a compradores y vendedores, ofreciendo una experiencia más eficiente que ahorra tiempo y dinero.
+- [Propietta](https://www.propietta.com/) lidero el equipo de desarrollo, es una plataforma innovadora en el sector inmobiliario diseñada para simplificar el proceso de compra y venta de propiedades. Utilizamos avisos inteligentes para conectar a los roles involucrados, ofreciendo una experiencia más eficiente que ahorra tiempo y dinero.
 
 ## 🎓 Experiencia en la enseñanza
 
@@ -60,7 +60,7 @@ Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes en
 
 ### 🔒️ DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 📝 Version control system
 
