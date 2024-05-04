@@ -1,6 +1,6 @@
 # Hola 👋, soy Brayan Diaz C
 
-Un Full Stack Engineer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
+Un Full Stack Developer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
 
 Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona compartir mis conocimientos aportando innovación 🚀 y fomentando el aprendizaje continuo 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro.
 
