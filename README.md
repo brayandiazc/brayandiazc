@@ -1,21 +1,25 @@
 # Hola 👋, soy Brayan Diaz C
 
-Un Full Stack Developer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
+Soy un Desarrollador Full Stack enfocado en Ruby on Rails, Python y JavaScript, especializado en llevar aplicaciones desde la idea inicial hasta su lanzamiento en producción. Mi experiencia abarca tanto el backend como el frontend, y me dedico a ayudar a organizaciones a implementar soluciones tecnológicas clave para su éxito.
 
-Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona compartir mis conocimientos aportando innovación 🚀 y fomentando el aprendizaje continuo 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro.
+Actualmente, dedico gran parte de mi tiempo al sector educativo, siendo docente y creando contenido formativo enfocado en el campo tecnológico. Estoy comprometido con el proceso de aprendizaje continuo y con compartir conocimientos que preparen a los profesionales para enfrentar los desafíos tecnológicos futuros.
+
+Mi capacidad para convertir ideas en soluciones prácticas y eficientes me define. Me involucro profundamente en cada fase del desarrollo, disfrutando del proceso y asegurando la calidad. Mi perfil es una combinación única de habilidades técnicas, experiencia educativa y un enfoque innovador que aporta valor excepcional a cada proyecto.
 
 ## 💼 Proyectos
 
-- [Propietta](https://www.propietta.com/) lidero el equipo de desarrollo, es una plataforma innovadora en el sector inmobiliario diseñada para simplificar el proceso de compra y venta de propiedades.
+- [Brayan Diaz C](https://www.brayandiazc.com/) Sitio web personal donde comparto artículos, consejos, guías, tutoriales entre otros.
+- [Propietta](https://www.propietta.com/) Plataforma del sector inmobiliaria que simplifica el proceso de compra y venta de inmuebles.
 
-## 🎓 Experiencia en la enseñanza
+## 🎓 Experiencia como docente
 
-Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes enseño, proporcionándoles las herramientas necesarias para crecer en las areas que han elegido. A través de una metodología dinámica y llena de energía, me esfuerzo por hacer que los conceptos técnicos sean fáciles de aprender y aporten valor a su formación, utilizando ejemplos prácticos del mundo real.
+Mi objetivo como docente es cultivar y enriquecer las habilidades de quienes enseño, proporcionando las herramientas necesarias para crecer en las areas que han elegido. A través de una metodología dinámica y llena de energía, me esfuerzo por hacer que los conceptos técnicos sean fáciles de aprender y aporten valor a su formación, utilizando ejemplos prácticos del mundo real.
 
 - [Adalid](https://www.adalid.cl/)
 - [Inforcap](https://inforcap.cl/)
 - [Desafío Latam](https://www.desafiolatam.com/)
 - [Universidad del Desarrollo](https://www.udd.cl/)
+- [Talento Digital Para Chile](https://talentodigitalparachile.cl/)
 
 ## 🌐 Blog, Artículos y Videos
 
@@ -27,7 +31,7 @@ Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes en
 
 ## 💡 Habilidades y conocimientos
 
-- 💬 Pregúntame sobre **Frontend**, **Backend**, **Cloud Computing** y **Diseño**. Me encanta hablar sobre **Emprendimiento**.
+- 💬 Pregúntame sobre **Frontend**, **Backend** y **Diseño**. Me encanta hablar sobre **Emprendimiento**.
 
 ## 📫 Contacto
 
@@ -40,15 +44,15 @@ Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes en
 
 ### 🎨 Desarrollo Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) ![Materialize](https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materialize&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🎉 Generadores de sitios estáticos
 
-![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white) ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 
 ### 🔨 Desarrollo Backend
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Nginex](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Nestjs](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🔧 Base de datos
 
@@ -60,15 +64,11 @@ Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes en
 
 ### 🔒️ DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 📝 Sistema de control de versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 📱 Desarrollo mobile
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 ### 📁 Visualización de datos
 
@@ -76,7 +76,7 @@ Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes en
 
 ### 📚 Testing
 
-![RSpect](https://img.shields.io/badge/-Rspec-FF0000?style=flat-square&logo=rspec&logoColor=white) ![MiniTest](https://img.shields.io/badge/-MiniTest-6E7A8A?style=flat-square&logo=minitest&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![MiniTest](https://img.shields.io/badge/-MiniTest-6E7A8A?style=flat-square&logo=minitest&logoColor=white) ![RSpect](https://img.shields.io/badge/-Rspec-FF0000?style=flat-square&logo=rspec&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ### 🗃️ Software
 
