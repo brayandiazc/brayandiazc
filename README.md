@@ -11,7 +11,7 @@ Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en solu
 - [Brayan Diaz C](https://www.brayandiazc.com/): Mi sitio web con artículos, guías y tutoriales.
 - [Propietta](https://www.propietta.com/): Plataforma inmobiliaria para facilitar la compra y venta de inmuebles.
 
-## 🎓 Experiencia como docente
+## 🎓 Experiencia en el sector EdTech
 
 - [Inforcap](https://inforcap.cl/): Docente.
 - [Adalid](https://www.adalid.cl/): Docente y creador de contenido académico.
