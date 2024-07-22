@@ -1,25 +1,23 @@
 # Hola 👋, soy Brayan Diaz C
 
-Soy un Desarrollador Full Stack enfocado en Ruby on Rails, Python y JavaScript, especializado en llevar aplicaciones desde la idea inicial hasta su lanzamiento en producción. Mi experiencia abarca tanto el backend como el frontend, y me dedico a ayudar a organizaciones a implementar soluciones tecnológicas clave para su éxito.
+Soy un Desarrollador Full Stack con experiencia en Ruby on Rails, Django y ReactJS, especializado en llevar aplicaciones desde la ideación hasta su lanzamiento. Mi trabajo abarca el backend y el frontend, enfocándome en soluciones tecnológicas clave para organizaciones.
 
-Actualmente, dedico gran parte de mi tiempo al sector educativo, siendo docente y creando contenido formativo enfocado en el campo tecnológico. Estoy comprometido con el proceso de aprendizaje continuo y con compartir conocimientos que preparen a los profesionales para enfrentar los desafíos tecnológicos futuros.
+Me apasiona el sector EdTech por eso trabajo como docente en el campo de la tecnología, asesoro y creo contenido formativo para varias instituciones.
 
-Mi capacidad para convertir ideas en soluciones prácticas y eficientes me define. Me involucro profundamente en cada fase del desarrollo, disfrutando del proceso y asegurando la calidad. Mi perfil es una combinación única de habilidades técnicas, experiencia educativa y un enfoque innovador que aporta valor excepcional a cada proyecto.
+Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en soluciones eficientes y mi enfoque práctico aportan valor a cada proyecto. Disfruto de cada fase del desarrollo, priorizando la calidad y la innovación.
 
 ## 💼 Proyectos
 
-- [Brayan Diaz C](https://www.brayandiazc.com/) Sitio web personal donde comparto artículos, consejos, guías, tutoriales entre otros.
-- [Propietta](https://www.propietta.com/) Plataforma del sector inmobiliaria que simplifica el proceso de compra y venta de inmuebles.
+- [Brayan Diaz C](https://www.brayandiazc.com/): Mi sitio web con artículos, guías y tutoriales.
+- [Propietta](https://www.propietta.com/): Plataforma inmobiliaria para facilitar la compra y venta de inmuebles.
 
 ## 🎓 Experiencia como docente
 
-Mi objetivo como docente es cultivar y enriquecer las habilidades de quienes enseño, proporcionando las herramientas necesarias para crecer en las areas que han elegido. A través de una metodología dinámica y llena de energía, me esfuerzo por hacer que los conceptos técnicos sean fáciles de aprender y aporten valor a su formación, utilizando ejemplos prácticos del mundo real.
-
-- [Adalid](https://www.adalid.cl/)
-- [Inforcap](https://inforcap.cl/)
-- [Desafío Latam](https://www.desafiolatam.com/)
-- [Universidad del Desarrollo](https://www.udd.cl/)
-- [Talento Digital Para Chile](https://talentodigitalparachile.cl/)
+- [Inforcap](https://inforcap.cl/): Docente.
+- [Adalid](https://www.adalid.cl/): Docente y creador de contenido académico.
+- [Talento Digital Para Chile](https://talentodigitalparachile.cl/): Asesor técnico.
+- [Desafío Latam](https://www.desafiolatam.com/): Docente y creador de contenido académico.
+- [Universidad del Desarrollo](https://www.udd.cl/): Docente y creador de contenido académico.
 
 ## 🌐 Blog, Artículos y Videos
 
@@ -35,8 +33,8 @@ Mi objetivo como docente es cultivar y enriquecer las habilidades de quienes ens
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<brayandiazc@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/brayandiazc)**
+- Te dejo mi correo para que me escribas **<brayandiazc@gmail.com>**
+- Mi **[Linkedin](https://www.linkedin.com/in/brayandiazc)** por si buscas un contacto mas formal.
 
 ### 🧑‍💻 Lenguajes de programación
 
@@ -80,7 +78,7 @@ Mi objetivo como docente es cultivar y enriquecer las habilidades de quienes ens
 
 ### 🗃️ Software
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white) ![Invision](https://img.shields.io/badge/Invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Autocad](https://img.shields.io/badge/Autocad-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![Sketchup](https://img.shields.io/badge/Sketchup-0076A8?style=for-the-badge&logo=sketchup&logoColor=white) ![Unity 3d](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00BFA5?style=for-the-badge&logo=google-meet&logoColor=white) ![Google Hangouts](https://img.shields.io/badge/Google%20Hangouts-0F9D58?style=for-the-badge&logo=google-hangouts&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Autocad](https://img.shields.io/badge/Autocad-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![Sketchup](https://img.shields.io/badge/Sketchup-0076A8?style=for-the-badge&logo=sketchup&logoColor=white) ![Unity 3d](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00BFA5?style=for-the-badge&logo=google-meet&logoColor=white) ![Google Hangouts](https://img.shields.io/badge/Google%20Hangouts-0F9D58?style=for-the-badge&logo=google-hangouts&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 ---
 
