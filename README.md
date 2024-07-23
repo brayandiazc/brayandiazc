@@ -1,8 +1,8 @@
 # Hola 👋, soy Brayan Diaz C
 
-Soy un Desarrollador Full Stack con experiencia en Ruby on Rails, Django y ReactJS, especializado en llevar aplicaciones desde la ideación hasta su lanzamiento. Mi trabajo abarca el backend y el frontend, enfocándome en soluciones tecnológicas clave para organizaciones.
+Soy un Desarrollador Full Stack con experiencia en Ruby, Python, JavaScript y sus tecnologías derivadas, me involucro en el desarrollo de aplicaciones desde la ideación hasta su lanzamiento. Mi trabajo abarca el backend y el frontend, enfocándome en soluciones tecnológicas clave para organizaciones.
 
-Me apasiona el sector EdTech por eso trabajo como docente en el campo de la tecnología, asesoro y creo contenido formativo para varias instituciones.
+Me apasiona el sector EdTech por eso trabajo como docente en el campo de la tecnología, asesoro y creo contenido formativo para varias instituciones académicas y empresas.
 
 Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en soluciones eficientes y mi enfoque práctico aportan valor a cada proyecto. Disfruto de cada fase del desarrollo, priorizando la calidad y la innovación.
 
@@ -14,16 +14,17 @@ Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en solu
 ## 🎓 Experiencia en el sector EdTech
 
 - [Inforcap](https://inforcap.cl/): Docente.
-- [Adalid](https://www.adalid.cl/): Docente y creador de contenido académico.
+- [Adalid](https://www.adalid.cl/): Docente, asesor y creador de contenido académico.
 - [Talento Digital Para Chile](https://talentodigitalparachile.cl/): Asesor técnico.
 - [Desafío Latam](https://www.desafiolatam.com/): Docente y creador de contenido académico.
 - [Universidad del Desarrollo](https://www.udd.cl/): Docente y creador de contenido académico.
 
 ## 🌐 Blog, Artículos y Videos
 
-- 📄 Soy muy activo en [LinkedIn](https://linkedin.com/in/brayandiazc)
-- 📝 Regularmente escribo artículos en mi [Blog](https://brayandiazc.com)
-- 📷 Imágenes y tonterías en [Instagram](https://instagram.com/brayandiaz_c) y [Twitter](https://twitter.com/brayandiazc)
+- 📄 Soy muy activo en [LinkedIn](https://linkedin.com/in/brayandiazc).
+- 📝 Regularmente escribo artículos en mi [Blog](https://brayandiazc.com).
+- 📝 Empece a escribir en ingles en [Medium](https://medium.com/@brayandiazc) y en [Dev.to](https://dev.to/brayandiazc).
+- 📷 Imágenes y tonterías en [Instagram](https://instagram.com/brayandiaz_c) y [Twitter](https://twitter.com/brayandiazc).
 - 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/brayandiazc?tab=repositories)
 - 📽️ Subo videos cada semana en [YouTube](https://www.youtube.com/@brayandiazc) y [TikTok](https://tiktok.com/@brayandiazc)
 
