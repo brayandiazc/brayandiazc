@@ -13,11 +13,11 @@ Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en solu
 
 ## 🎓 Experiencia en el sector EdTech
 
-- [Inforcap](https://inforcap.cl/): Docente.
-- [Adalid](https://www.adalid.cl/): Docente, asesor y creador de contenido académico.
 - [Talento Digital Para Chile](https://talentodigitalparachile.cl/): Asesor técnico.
-- [Desafío Latam](https://www.desafiolatam.com/): Docente y creador de contenido académico.
+- [Adalid](https://www.adalid.cl/): Docente, asesor y creador de contenido académico.
 - [Universidad del Desarrollo](https://www.udd.cl/): Docente y creador de contenido académico.
+- [Desafío Latam](https://www.desafiolatam.com/): Docente y creador de contenido académico.
+- [Inforcap](https://inforcap.cl/): Docente.
 
 ## 🌐 Blog, Artículos y Videos
 
