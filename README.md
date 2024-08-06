@@ -8,10 +8,15 @@ Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en solu
 
 ## 💼 Proyectos
 
+Actualmente asesoro y desarrollo algunos proyectos personales y de clientes, algunos de ellos son:
+
 - [Brayan Diaz C](https://www.brayandiazc.com/): Mi sitio web con artículos, guías y tutoriales.
-- [Propietta](https://www.propietta.com/): Plataforma inmobiliaria para facilitar la compra y venta de inmuebles.
+  <!-- - [Propietta](https://www.propietta.com/): Co-fundador y parte del equipo de desarrollo, una plataforma de gestión inmobiliaria. -->
+  <!-- - [Mundoruki](https://www.mundoruki.com/): Plataforma del sector educativo. -->
 
 ## 🎓 Experiencia en el sector EdTech
+
+Estoy muy involucrado en el sector EdTech, me apasiona la educación y la tecnología, por eso trabajo de la mano en varias instituciones y empresas del sector:
 
 - [Talento Digital Para Chile](https://talentodigitalparachile.cl/): Asesor técnico.
 - [Adalid](https://www.adalid.cl/): Docente, asesor y creador de contenido académico.
