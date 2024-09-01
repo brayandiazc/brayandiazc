@@ -37,11 +37,6 @@ Estoy muy involucrado en el sector EdTech, me apasiona la educación y la tecnol
 
 - 💬 Pregúntame sobre **Frontend**, **Backend** y **Diseño**. Me encanta hablar sobre **Emprendimiento**.
 
-## 📫 Contacto
-
-- Te dejo mi correo para que me escribas **<brayandiazc@gmail.com>**
-- Mi **[Linkedin](https://www.linkedin.com/in/brayandiazc)** por si buscas un contacto mas formal.
-
 ### 🧑‍💻 Lenguajes de programación
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -87,6 +82,11 @@ Estoy muy involucrado en el sector EdTech, me apasiona la educación y la tecnol
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Autocad](https://img.shields.io/badge/Autocad-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) ![Sketchup](https://img.shields.io/badge/Sketchup-0076A8?style=for-the-badge&logo=sketchup&logoColor=white) ![Unity 3d](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00BFA5?style=for-the-badge&logo=google-meet&logoColor=white) ![Google Hangouts](https://img.shields.io/badge/Google%20Hangouts-0F9D58?style=for-the-badge&logo=google-hangouts&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 ---
+
+## 📫 Contacto
+
+- Te dejo mi correo para que me escribas **<brayandiazc@gmail.com>**
+- Mi **[Linkedin](https://www.linkedin.com/in/brayandiazc)** por si buscas un contacto mas formal.
 
 ## 🌐 Redes sociales
 
