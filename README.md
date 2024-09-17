@@ -2,9 +2,7 @@
 
 Soy un Desarrollador Full Stack con experiencia en Ruby, Python, JavaScript y sus tecnologías derivadas, me involucro en el desarrollo de aplicaciones desde la ideación hasta su lanzamiento. Mi trabajo abarca el backend y el frontend, enfocándome en soluciones tecnológicas clave para organizaciones.
 
-Me apasiona el sector EdTech por eso trabajo como docente en el campo de la tecnología, asesoro y creo contenido formativo para varias instituciones académicas y empresas.
-
-Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en soluciones eficientes y mi enfoque práctico aportan valor a cada proyecto. Disfruto de cada fase del desarrollo, priorizando la calidad y la innovación.
+Me apasiona el sector EdTech por eso dedico parte de mi tiempo como docente en el campo de la tecnología, asesoro y creo contenido formativo para varias instituciones académicas y empresas.
 
 ## 💼 Proyectos
 
@@ -16,7 +14,7 @@ Actualmente asesoro y desarrollo algunos proyectos personales y de clientes, alg
 
 ## 🎓 Experiencia en el sector EdTech
 
-Estoy muy involucrado en el sector EdTech, me apasiona la educación y la tecnología, por eso trabajo de la mano en varias instituciones y empresas del sector:
+Estoy muy involucrado en el sector EdTech, me apasiona la educación y la tecnología, por eso trabajo de la mano en varias instituciones y empresas del sector algunas de ellas son:
 
 - [Talento Digital Para Chile](https://talentodigitalparachile.cl/): Asesor técnico.
 - [Adalid](https://www.adalid.cl/): Docente, asesor y creador de contenido académico.
@@ -86,7 +84,7 @@ Estoy muy involucrado en el sector EdTech, me apasiona la educación y la tecnol
 ## 📫 Contacto
 
 - Te dejo mi correo para que me escribas **<brayandiazc@gmail.com>**
-- Mi **[Linkedin](https://www.linkedin.com/in/brayandiazc)** por si buscas un contacto mas formal.
+- Mi **[Linkedin](https://www.linkedin.com/in/brayandiazc)** si buscas un contacto mas directo.
 
 ## 🌐 Redes sociales
 
