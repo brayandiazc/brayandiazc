@@ -4,8 +4,6 @@ Soy un **Desarrollador Full Stack** con experiencia en **Ruby**, **Python**, **J
 
 Además, estoy profundamente comprometido con el sector **EdTech**. Dedico parte de mi tiempo a la docencia, asesoría y creación de contenido formativo para instituciones académicas y empresas, ayudando a formar la próxima generación de profesionales en tecnología.
 
----
-
 ## 💼 Proyectos
 
 Actualmente desarrollo y asesoro proyectos tanto personales como de clientes. Algunos de ellos son:
@@ -13,8 +11,6 @@ Actualmente desarrollo y asesoro proyectos tanto personales como de clientes. Al
 - **[Brayan Díaz C](https://www.brayandiazc.com/):** Mi sitio web personal, donde comparto artículos, guías y tutoriales sobre desarrollo de software y tecnología.
   <!-- - **[Propietta](https://www.propietta.com/):** Co-fundador y desarrollador de una plataforma de gestión inmobiliaria. -->
   <!-- - **[Mundoruki](https://www.mundoruki.com/):** Desarrollo de una plataforma educativa innovadora. -->
-
----
 
 ## 🎓 Experiencia en el sector EdTech
 
@@ -34,8 +30,6 @@ Me apasiona la educación y la tecnología, lo que me ha llevado a colaborar con
 - **[Inforcap](https://inforcap.cl/):**
   - Docente especializado en formación tecnológica.
 
----
-
 ## 🌐 Blog, Artículos y Videos
 
 Comparto mi conocimiento a través de diversas plataformas educativas y redes sociales:
@@ -45,8 +39,6 @@ Comparto mi conocimiento a través de diversas plataformas educativas y redes so
 - 📽️ Subo videos semanales sobre desarrollo y tecnología en [YouTube](https://www.youtube.com/@brayandiazc) y [TikTok](https://tiktok.com/@brayandiazc).
 - 📷 Sígueme para contenido adicional en [Instagram](https://instagram.com/brayandiaz_c) y [Twitter](https://twitter.com/brayandiazc).
 - 👨‍💻 Explora todos mis proyectos en [GitHub](https://github.com/brayandiazc?tab=repositories).
-
----
 
 ## 💡 Habilidades y Conocimientos
 
@@ -78,8 +70,6 @@ Comparto mi conocimiento a través de diversas plataformas educativas y redes so
 
 ![Comunicación](https://img.shields.io/badge/Comunicación-000000?style=for-the-badge) ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo%20en%20Equipo-000000?style=for-the-badge) ![Resolución de Problemas](https://img.shields.io/badge/Resolución%20de%20Problemas-000000?style=for-the-badge) ![Creatividad](https://img.shields.io/badge/Creatividad-000000?style=for-the-badge) ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-000000?style=for-the-badge) ![Aprendizaje Continuo](https://img.shields.io/badge/Aprendizaje%20Continuo-000000?style=for-the-badge)
 
----
-
 ## 📫 Contacto
 
 ¿Tienes una idea o un proyecto en mente? Escríbeme:
@@ -87,14 +77,8 @@ Comparto mi conocimiento a través de diversas plataformas educativas y redes so
 - **Email:** [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
 - **LinkedIn:** [linkedin.com/in/brayandiazc](https://www.linkedin.com/in/brayandiazc)
 
----
-
 ## 🌐 Redes Sociales
 
 Conecta conmigo en mis redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brayandiazc) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@brayandiazc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayandiaz_c) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@brayandiazc) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/brayandiazc) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/brayandiazc) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@brayandiazc)
-
----
-
-¡Gracias por visitar mi perfil! 🚀
