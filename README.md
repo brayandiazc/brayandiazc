@@ -1,11 +1,10 @@
 # 👋 ¡Hola! Soy Brayan Díaz C
 
 **Tech Lead · Consultor Técnico · Docente**
-
 Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
 - 🛠️ **Desarrollo y liderazgo técnico** — colaboro con pymes y startups para planificar, construir y escalar sus aplicaciones web en plazos ajustados.
-- 🎓 **Docencia y mentoría** — he acompañado a estudiantes en bootcamps y universidades, diseñando planes de estudio y apoyando su crecimiento.
+- 🎓 **Docencia y mentoría** — Acompaño a estudiantes en bootcamps y universidades, impartiendo clases y diseñando planes de estudio que apoyen su crecimiento.
 - ✍️ **Divulgación** — comparto tutoriales, artículos y charlas sobre desarrollo, productividad y carrera tech.
 
 ## 💼 Proyectos activos
@@ -26,7 +25,7 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 🛠️ Herramientas favoritas
 
-`Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` ·  
+`Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` ·
 `FastAPI` · `React / Next.js` · `Supabase` · `Docker` · `GitHub Actions`
 
 ## 🤝 ¿Conversamos?
@@ -38,16 +37,16 @@ _Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡habl
 
 ## 🧠 Blog, artículos y videos
 
-| Plataforma  | Enlace                                                             |
-| ----------- | ------------------------------------------------------------------ |
-| 📝 Blog     | [brayandiazc.com](https://brayandiazc.com)                         |
-| 🔗 LinkedIn | [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc) |
-| ✍️ Medium   | [@brayandiazc](https://medium.com/@brayandiazc)                    |
-| 💻 Dev.to   | [dev.to/brayandiazc](https://dev.to/brayandiazc)                   |
-| 🎥 YouTube  | [@brayandiazc](https://www.youtube.com/@brayandiazc)               |
-| 🎬 TikTok   | [@brayandiazc](https://tiktok.com/@brayandiazc)                    |
-
----
+| Plataforma     | Enlace                                                             |
+| -------------- | ------------------------------------------------------------------ |
+| 📝 Blog        | [brayandiazc.com](https://brayandiazc.com)                         |
+| 🔗 LinkedIn    | [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc) |
+| ✍️ Medium      | [brayandiazc](https://medium.com/@brayandiazc)                     |
+| 💻 Devto       | [brayandiazc](https://dev.to/brayandiazc)                          |
+| 🖥️ CoderLegion | [brayandiazc](https://coderlegion.com/user/brayandiazc)            |
+| 🎥 YouTube     | [brayandiazc](https://www.youtube.com/@brayandiazc)                |
+| 🎬 TikTok      | [brayandiazc](https://tiktok.com/@brayandiazc)                     |
+| 📸Instagram    | [brayandiaz_c](https://www.instagram.com/brayandiaz_c/)            |
 
 ## 💡 Habilidades y conocimientos
 
