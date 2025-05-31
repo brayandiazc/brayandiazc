@@ -4,16 +4,16 @@
 
 Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
-- 🛠️ **Desarrollo y liderazgo técnico** — colaboro con empresas para planificar, construir y escalar sus aplicaciones web.
+- 🛠️ **Desarrollo y liderazgo técnico** — colaboro con empresas para planificar, construir y escalar sus procesos por medio de la tecnología.
 - 🎓 **Docencia y mentoría** — Acompaño a estudiantes, impartiendo clases y diseñando planes de estudio.
 - ✍️ **Divulgación** — comparto tutoriales, artículos y charlas sobre tecnología, productividad y producto.
 
 ## 💼 Proyectos activos
 
-| Proyecto                                            | Rol / Stack                                 | Qué aporta                                                   |
-| --------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor · Astro                               | Blog con guías y recursos semanales para desarrolladores.    |
-| **[Propietta](https://www.propietta.com/)**         | Co-fundador · Rails · PostgreSQL · Tailwind | Plataforma inmobiliaria con avisos inteligentes y QR en PDF. |
+| Proyecto                                            | Rol               | Qué aporta                                                                                          |
+| --------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor             | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
+| **[Propietta](https://www.propietta.com/)**         | CTO · Co-fundador | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
 
 ## 🎓 Faceta EdTech
 
