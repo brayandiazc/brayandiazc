@@ -10,10 +10,10 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 💼 Proyectos activos
 
-| Proyecto                                            | Rol        | Qué aporta                                                                                          |
-| --------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor      | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
-| **[Propietta](https://www.propietta.com/)**         | Co-founder | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
+| Proyecto                                            | Rol / Stack                                      | Qué aporta                                                                                          |
+| --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor · Astro                                    | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
+| **[Propietta](https://www.propietta.com/)**         | CTO · Cofundador · Rails · PostgreSQL · Tailwind | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
 
 ## 🎓 Faceta EdTech
 
@@ -43,7 +43,7 @@ _Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡habl
 | 📝 Blog        | [brayandiazc.com](https://brayandiazc.com)                         |
 | 🔗 LinkedIn    | [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc) |
 | ✍️ Medium      | [brayandiazc](https://medium.com/@brayandiazc)                     |
-| 💻 Devto       | [brayandiazc](https://dev.to/brayandiazc)                          |
+| 💻 Dev.to      | [brayandiazc](https://dev.to/brayandiazc)                          |
 | 🖥️ CoderLegion | [brayandiazc](https://coderlegion.com/user/brayandiazc)            |
 | 🎥 YouTube     | [brayandiazc](https://www.youtube.com/@brayandiazc)                |
 | 🎬 TikTok      | [brayandiazc](https://tiktok.com/@brayandiazc)                     |
@@ -96,12 +96,3 @@ _Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡habl
 ![Render](https://img.shields.io/badge/Render-2B2D42?style=for-the-badge&logo=render&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🤝 Soft Skills
-
-- 💬 Comunicación efectiva
-- 🤝 Trabajo en equipo
-- 🧠 Resolución de problemas
-- 🎨 Creatividad
-- 🔄 Adaptabilidad
-- 📚 Aprendizaje continuo
