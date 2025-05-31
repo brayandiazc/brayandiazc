@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Brayan Díaz C
 
 **Tech Lead · Consultor Técnico · Docente**
+
 Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
 - 🛠️ **Desarrollo y liderazgo técnico** — colaboro con pymes y startups para planificar, construir y escalar sus aplicaciones web en plazos ajustados.
