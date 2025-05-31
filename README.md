@@ -4,9 +4,9 @@
 
 Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
-- 🛠️ **Desarrollo y liderazgo técnico** — colaboro con pymes y startups para planificar, construir y escalar sus aplicaciones web.
-- 🎓 **Docencia y mentoría** — Acompaño a estudiantes, impartiendo clases y diseñando planes de estudio que apoyen su crecimiento.
-- ✍️ **Divulgación** — comparto tutoriales, artículos y charlas sobre desarrollo, productividad y carrera tech.
+- 🛠️ **Desarrollo y liderazgo técnico** — colaboro con empresas para planificar, construir y escalar sus aplicaciones web.
+- 🎓 **Docencia y mentoría** — Acompaño a estudiantes, impartiendo clases y diseñando planes de estudio.
+- ✍️ **Divulgación** — comparto tutoriales, artículos y charlas sobre tecnología, productividad y producto.
 
 ## 💼 Proyectos activos
 
