@@ -1,54 +1,42 @@
-# 👋 Hola, soy Brayan Díaz C
+# 👋 ¡Hola! Soy Brayan Díaz C
 
-**Full-Stack Engineer • Mentor EdTech • Creador de Contenido**
-Especializado en **Ruby / Rails · Python · JavaScript**. Ayudo a pymes y startups a lanzar productos digitales **en semanas, no meses**, y formo a la próxima generación de desarrolladores en bootcamps y universidades.
+**Tech Lead · Consultor Técnico · Docente**
 
-- 🚀 **Clientes & MVPs rápidos:** diseño y desarrollo de soluciones web (Rails, Node, Supabase/Lovable) listas para escalar.
-- 🎓 **Docencia & mentoría:** +700 estudiantes impactados en programas Full Stack (Python, JS, Ruby) y coordinación académica en React.
-- 🗣 **Contenido & comunidad:** artículos técnicos semanales, videos y charlas para potenciar carreras tech.
+Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
----
+- 🛠️ **Desarrollo y liderazgo técnico** — colaboro con pymes y startups para planificar, construir y escalar sus aplicaciones web en plazos ajustados.
+- 🎓 **Docencia y mentoría** — he acompañado a estudiantes en bootcamps y universidades, diseñando planes de estudio y apoyando su crecimiento.
+- ✍️ **Divulgación** — comparto tutoriales, artículos y charlas sobre desarrollo, productividad y carrera tech.
 
 ## 💼 Proyectos activos
 
-| Proyecto / Demo                                            | Rol & stack                                 | Enfoque de valor                                               |
-| ---------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------- |
-| **[Propietta](https://www.propietta.com/)**                | Co-fundador · Rails + PostgreSQL · Tailwind | Plataforma inmobiliaria con avisos inteligentes y QR PDF.      |
-| **[Web Renting](https://www.brayandiazc.com/#webrenting)** | Product Owner · Vite + React · Supabase     | 10 sitios estáticos/mes para negocios sin web, listos en 72 h. |
-| **[brayandiazc.com](https://www.brayandiazc.com/)**        | Autor · Astro + MDX                         | Blog con guías y tutoriales (1 post largo/semana).             |
+| Proyecto                                            | Rol / Stack                                 | Qué aporta                                                   |
+| --------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor · Astro                               | Blog con guías y recursos semanales para desarrolladores.    |
+| **[Propietta](https://www.propietta.com/)**         | Co-fundador · Rails · PostgreSQL · Tailwind | Plataforma inmobiliaria con avisos inteligentes y QR en PDF. |
 
----
+## 🎓 Faceta EdTech
 
-## 🎓 Impacto EdTech
+- **Docente y diseñador curricular**
+  - [Inforcap](https://inforcap.cl/) · Docente
+  - [Universidad del Desarrollo](https://udd.cl/) · Docente
+  - [Talento Digital CL](https://talentodigitalparachile.cl/) · Asesor · Auditor
+  - [Desafío Latam](https://desafiolatam.com/) · Docente · Diseñador instruccional
+  - [Adalid](https://www.adalid.cl/) · Docente · Coordinador Académico · Diseñador instruccional
 
-- **Coordinador Académico – [Adalid](https://www.adalid.cl/)**
-  Dirijo el programa de especialización Frontend con React (100+ graduados/edición).
+## 🛠️ Herramientas favoritas
 
-- **Docente & diseñador curricular**
-  - [Inforcap](https://inforcap.cl/) – Bootcamp Python Full Stack
-  - [Desafío Latam](https://desafiolatam.com/) – Bootcamps Ruby & JavaScript
-  - [Universidad del Desarrollo](https://udd.cl/) – Cursos de tecnologías web
-  - [Talento Digital CL](https://talentodigitalparachile.cl/) – Asesor técnico y auditorías
+`Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` ·  
+`FastAPI` · `React / Next.js` · `Supabase` · `Docker` · `GitHub Actions`
 
----
+## 🤝 ¿Conversamos?
 
-## 🛠 Stack favorito
-
-`Rails 8` · `PostgreSQL` · `TailwindCSS/DaisyUI` · `Turbo & Stimulus` · `FastAPI` · `React/Next.js` · `Supabase` · `Docker` · `GitHub Actions`
-
----
-
-## 📣 ¿Trabajamos juntos?
-
-- ✉️ **brayandiazc@gmail.com** – Cuéntame tu idea y agenda una llamada de 15 min.
+- 📧 **brayandiazc@gmail.com**
 - 💼 **LinkedIn:** [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc)
-- 📰 **Suscríbete** al boletín semanal de dev tips y casos de éxito en [brayandiazc.com/newsletter](https://www.brayandiazc.com/newsletter)
 
-_Let’s build something awesome — rápido, escalable y con impacto real._ 🚀
+_Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡hablemos!_
 
-## 🧠 Blog, Artículos y Videos
-
-Comparto conocimientos sobre desarrollo y tecnología en múltiples plataformas:
+## 🧠 Blog, artículos y videos
 
 | Plataforma  | Enlace                                                             |
 | ----------- | ------------------------------------------------------------------ |
@@ -59,9 +47,11 @@ Comparto conocimientos sobre desarrollo y tecnología en múltiples plataformas:
 | 🎥 YouTube  | [@brayandiazc](https://www.youtube.com/@brayandiazc)               |
 | 🎬 TikTok   | [@brayandiazc](https://tiktok.com/@brayandiazc)                    |
 
-## 💡 Habilidades y Conocimientos
+---
 
-### 🧑‍💻 Lenguajes de Programación
+## 💡 Habilidades y conocimientos
+
+### 🧑‍💻 Lenguajes de programación
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -88,7 +78,7 @@ Comparto conocimientos sobre desarrollo y tecnología en múltiples plataformas:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Bases de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -115,10 +105,3 @@ Comparto conocimientos sobre desarrollo y tecnología en múltiples plataformas:
 - 🎨 Creatividad
 - 🔄 Adaptabilidad
 - 📚 Aprendizaje continuo
-
-## 📫 Contacto
-
-¿Tienes una idea o proyecto en mente? Escríbeme:
-
-- 📧 **Email:** [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/brayandiazc](https://www.linkedin.com/in/brayandiazc)
