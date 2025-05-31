@@ -10,10 +10,10 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 💼 Proyectos activos
 
-| Proyecto                                            | Rol         | Qué aporta                                                                                          |
-| --------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------- |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor       | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
-| **[Propietta](https://www.propietta.com/)**         | Co-fundador | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
+| Proyecto                                            | Rol        | Qué aporta                                                                                          |
+| --------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------- |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor      | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
+| **[Propietta](https://www.propietta.com/)**         | Co-founder | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
 
 ## 🎓 Faceta EdTech
 
