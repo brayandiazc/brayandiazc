@@ -10,10 +10,10 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 💼 Proyectos activos
 
-| Proyecto                                            | Rol / Stack                                      | Qué aporta                                                                                          |
-| --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor · Astro                                    | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
-| **[Propietta](https://www.propietta.com/)**         | CTO · Cofundador · Rails · PostgreSQL · Tailwind | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
+| Proyecto                                            | Rol              | Qué aporta                                                                                          |
+| --------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------------------- |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor            | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
+| **[Propietta](https://www.propietta.com/)**         | CTO · Cofundador | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
 
 ## 🎓 Faceta EdTech
 
@@ -26,8 +26,8 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 🛠️ Herramientas favoritas
 
-`Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` ·
-`FastAPI` · `React / Next.js` · `Supabase` · `Docker` · `GitHub Actions`
+`Ruby / Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` ·
+`FastAPI` · `Django` · `React / Next.js` · `Supabase` · `Docker` · `GitHub Actions`
 
 ## 🤝 ¿Conversamos?
 
