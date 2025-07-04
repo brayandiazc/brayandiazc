@@ -18,11 +18,11 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 ## 🎓 Faceta EdTech
 
 - **Docente y diseñador curricular**
-  - [Inforcap](https://inforcap.cl/) · Docente
-  - [Universidad del Desarrollo](https://udd.cl/) · Docente
-  - [Talento Digital CL](https://talentodigitalparachile.cl/) · Asesor · Auditor
-  - [Desafío Latam](https://desafiolatam.com/) · Docente · Diseñador instruccional
   - [Adalid](https://www.adalid.cl/) · Docente · Coordinador Académico · Diseñador instruccional
+  - [Desafío Latam](https://desafiolatam.com/) · Docente · Diseñador instruccional
+  - [Talento Digital CL](https://talentodigitalparachile.cl/) · Asesor · Auditor
+  - [Universidad del Desarrollo](https://udd.cl/) · Docente
+  - [Inforcap](https://inforcap.cl/) · Docente
 
 ## 🛠️ Herramientas favoritas
 
