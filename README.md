@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Brayan Díaz C
 
-**Líder Técnico · Consultor Técnico · Educador**
+**Líder Técnico · Consultor Tecnológico · Docente**
 
 Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
