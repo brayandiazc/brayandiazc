@@ -10,24 +10,23 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 💼 Proyectos activos
 
-| Proyecto                                            | Rol   | Qué aporta                                                                                          |
-| --------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------- |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor | Blog personal donde comparto guías y recursos semanales para desarrolladores.                       |
-| **[Propietta](https://www.propietta.com/)**         | CTO   | Plataforma inmobiliaria que convierte el aviso físico tradicional en un punto de acceso inteligente |
+| Proyecto                                            | Rol   | Qué aporta                                                                           |
+| --------------------------------------------------- | ----- | ------------------------------------------------------------------------------------ |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor | Blog personal donde comparto guías y recursos semanales para desarrolladores.        |
+| **[Propietta](https://www.propietta.com/)**         | CTO   | Plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente |
 
 ## 🎓 Faceta EdTech
 
 - **Docente y diseñador curricular**
   - [Adalid](https://www.adalid.cl/) · Docente · Coordinador Académico · Diseñador instruccional
-  - [Desafío Latam](https://desafiolatam.com/) · Docente · Diseñador instruccional
   - [Talento Digital CL](https://talentodigitalparachile.cl/) · Asesor · Auditor
-  - [Universidad del Desarrollo](https://udd.cl/) · Docente
   - [Inforcap](https://inforcap.cl/) · Docente
+  - [Desafío Latam](https://desafiolatam.com/) · Docente · Diseñador instruccional
+  - [Universidad del Desarrollo](https://udd.cl/) · Docente
 
 ## 🛠️ Herramientas favoritas
 
-`Ruby / Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` ·
-`FastAPI` · `Django` · `React / Next.js` · `Supabase` · `Docker` · `GitHub Actions`
+`Ruby / Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` · `FastAPI` · `Python / Django` · `React / Next.js` · `Supabase` · `Docker / Kubernetes` · `GitHub Actions`
 
 ## 🤝 ¿Conversamos?
 
@@ -91,6 +90,8 @@ _Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡habl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-2B2D42?style=for-the-badge&logo=render&logoColor=white)
