@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Brayan Díaz C
 
-**Líder Técnico · Consultor Tecnológico · Docente**
+## Líder Técnico · Consultor Tecnológico · Docente
 
 Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
 
@@ -30,7 +30,7 @@ Me apasiona convertir ideas en productos digitales, acompañar a las empresas en
 
 ## 🤝 ¿Conversamos?
 
-- 📧 **brayandiazc@gmail.com**
+- 📧 **Email:** [brayandiazc@gmail.com](brayandiazc@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc)
 
 _Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡hablemos!_
