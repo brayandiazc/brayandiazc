@@ -17,7 +17,7 @@ Combino desarrollo, estrategia y docencia para ayudar a personas y empresas a cr
 | **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor | ✍️ Blog activo donde comparto guías, artículos y recursos sobre desarrollo y tecnología.                |
 | **[Propietta](https://www.propietta.com/)**         | CTO   | 🧠 En desarrollo: plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente. |
 | **[Testigo](https://www.testigo.ai/)**              | CTO   | 🚀 En producción: solución para certificación de evidencias mediante IA y blockchain.                   |
-| **[Ora](https://www.oraki.com/)**                   | CTO   | 🌱 En prototipo: guía espiritual que combina inteligencia artificial con sabiduría ancestral.           |
+| **[Ora](https://www.oraki.com.co/)**                | CTO   | 🌱 En prototipo: guía espiritual que combina inteligencia artificial con sabiduría ancestral.           |
 
 ## 🎓 Faceta EdTech
 
