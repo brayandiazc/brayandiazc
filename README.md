@@ -1,99 +1,99 @@
 # 👋 ¡Hola! Soy Brayan Díaz C
 
-## Líder Técnico · Consultor Tecnológico · Docente
+## Desarrollador · Consultor Tecnológico · Docente
 
-Me apasiona convertir ideas en productos digitales, acompañar a las empresas en la adopción tecnológica y construir software de forma ágil. También disfruto guiar a personas en su aprendizaje mediante clases y contenido formativo.
+Me apasiona construir productos tecnológicos que resuelvan problemas reales y compartir lo que aprendo en el camino.
 
-- 🛠️ Colaboro con empresas para planificar, construir y escalar sus procesos por medio de la tecnología.
-- 🎓 Acompaño a estudiantes, impartiendo clases y diseñando planes de estudio.
-- ✍️ Comparto tutoriales, artículos y charlas sobre tecnología, productividad y producto.
+Combino desarrollo, estrategia y docencia para ayudar a personas y empresas a crear soluciones digitales prácticas y escalables.
+
+- 💻 Desarrollo productos propios y colaboro en proyectos, MVPs y soluciones digitales para empresas y startups.
+- 🎓 Diseño experiencias formativas aplicadas para instituciones y equipos que buscan aprender haciendo.
+- ✍️ Comparto guías, artículos y recursos sobre tecnología y aprendizaje práctico en [brayandiazc.com](https://www.brayandiazc.com).
 
 ## 💼 Proyectos activos
 
-| Proyecto                                            | Rol   | Qué aporta                                                                           |
-| --------------------------------------------------- | ----- | ------------------------------------------------------------------------------------ |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor | Blog personal donde comparto guías y recursos semanales para desarrolladores.        |
-| **[Propietta](https://www.propietta.com/)**         | CTO   | Plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente |
+| Proyecto                                            | Rol   | Qué aporta                                                                                              |
+| --------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------- |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor | ✍️ Blog activo donde comparto guías, artículos y recursos semanales sobre desarrollo y tecnología.      |
+| **[Propietta](https://www.propietta.com/)**         | CTO   | 🧠 En desarrollo: plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente. |
+| **[Testigo](https://www.testigo.ai/)**              | CTO   | 🚀 En producción: solución para certificación de evidencias mediante IA y blockchain.                   |
+| **[Ora](https://www.oraki.com/)**                   | CTO   | 🌱 En prototipo: guía espiritual que combina inteligencia artificial con sabiduría ancestral.           |
 
 ## 🎓 Faceta EdTech
 
-- **Docente y diseñador curricular**
-  - [Adalid](https://www.adalid.cl/) · Docente · Coordinador Académico · Diseñador instruccional
-  - [Talento Digital CL](https://talentodigitalparachile.cl/) · Asesor · Auditor
-  - [Inforcap](https://inforcap.cl/) · Docente
-  - [Desafío Latam](https://desafiolatam.com/) · Docente · Diseñador instruccional
-  - [Universidad del Desarrollo](https://udd.cl/) · Docente
+Integro la docencia con la práctica del desarrollo, diseñando experiencias formativas centradas en la creación de tecnología real.  
+He colaborado con instituciones y programas que impulsan la formación tecnológica en Latinoamérica:
 
-## 🛠️ Herramientas favoritas
+- 🧑‍🏫 **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular.
+- 🎓 **[Talento Digital CL](https://talentodigitalparachile.cl/)** — Asesor y Auditor en programas de formación tecnológica.
+- 💡 **[Inforcap](https://inforcap.cl/)** — Docente en desarrollo web y transformación digital.
+- 🚀 **[Desafío Latam](https://desafiolatam.com/)** — Docente y Diseñador Instruccional en programas EdTech.
+- 🏛️ **[Universidad del Desarrollo](https://udd.cl/)** — Docente en formación práctica de desarrollo web.
 
-`Ruby / Rails` · `PostgreSQL` · `Bulma` · `TailwindCSS / DaisyUI` · `Turbo / Stimulus` · `FastAPI` · `Python / Django` · `React / Next.js` · `Supabase` · `Docker / Kubernetes` · `GitHub Actions`
+> 🎯 **Mi enfoque:** enseñar desde la práctica y compartir lo que aprendo construyendo.
+>
+> 📚 Más recursos y artículos educativos en [brayandiazc.com](https://www.brayandiazc.com).
+
+## 🧠 Stack Tecnológico
+
+Mi trabajo combina herramientas que me permiten crear, escalar y enseñar tecnología de manera ágil y práctica.  
+Estas son las herramientas y tecnologías que utilizo con mayor frecuencia en mis proyectos y espacios formativos:
+
+### ⚙️ Backend y APIs
+
+`Ruby on Rails` · `FastAPI` · `Django` · `NestJS` · `Node.js / Express`
+
+### 🎨 Frontend
+
+`Turbo / Stimulus` · `TailwindCSS` · `DaisyUI` · `React / Next.js` · `Astro`
+
+### 🗄️ Bases de Datos y Modelado
+
+`PostgreSQL` · `Supabase` · `SQLite` · `MongoDB` · `Prisma ORM` · `ActiveRecord`
+
+### ☁️ DevOps, Cloud y Despliegue
+
+`Docker` · `Kubernetes` · `GitHub Actions` · `Vercel` · `Render` · `Heroku` · `AWS` (EC2, S3, RDS) · `DigitalOcean` · `Terraform`
+
+### 🤖 Inteligencia Artificial y Automatización
+
+`Lovable` · `OpenAI API` · `Google Cloud AI` · `LangChain` · `Supabase Vector` · `n8n`
+
+### 🧩 Ecosistema y Herramientas de soporte
+
+`Git` · `Linux` · `Markdown` · `VS Code` · `Postman`
+
+> 💡 **Stack principal:** Ruby on Rails + PostgreSQL + TailwindCSS + Turbo/Stimulus
+>
+> 🤖 **IA y automatización:** Integraciones con OpenAI, Google Cloud AI, Supabase y Lovable.
+>
+> ☁️ **Infraestructura:** Despliegue en AWS, Heroku y Vercel con pipelines automatizados.
+
+## 🧠 Blog, artículos y contenido
+
+Comparto guías, tutoriales y reflexiones sobre tecnología, desarrollo y aprendizaje práctico en diferentes plataformas.  
+Mi enfoque: enseñar desde la experiencia y documentar el proceso de crear productos reales.
+
+| Plataforma      | Enlace                                                             | Enfoque principal                                    |
+| --------------- | ------------------------------------------------------------------ | ---------------------------------------------------- |
+| 📝 **Blog**     | [brayandiazc.com](https://www.brayandiazc.com)                     | Guías técnicas, proyectos y recursos formativos      |
+| 🔗 **LinkedIn** | [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc) | Artículos, mentorías y experiencias profesionales    |
+| 💻 **Dev.to**   | [dev.to/brayandiazc](https://dev.to/brayandiazc)                   | Contenido para desarrolladores y comunidad tech      |
+| 🎥 **YouTube**  | [@brayandiazc](https://www.youtube.com/@brayandiazc)               | Tutoriales, charlas y recursos educativos visuales   |
+| ✍️ **Medium**   | [medium.com/@brayandiazc](https://medium.com/@brayandiazc)         | Publicaciones de divulgación y educación tecnológica |
+
+> 💡 También comparto contenido breve y reflexiones en redes como [Instagram](https://www.instagram.com/brayandiaz_c/) y [TikTok](https://tiktok.com/@brayandiazc).
 
 ## 🤝 ¿Conversamos?
 
-- 📧 **Email:** [brayandiazc@gmail.com](brayandiazc@gmail.com)
+Si crees que podemos construir algo juntos o simplemente quieres intercambiar ideas, ¡hablemos!  
+Estoy abierto a colaboraciones, mentorías y proyectos que busquen crear tecnología con propósito.
+
+- 📧 **Email:** [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc)
+- 🌐 **Sitio web:** [brayandiazc.com](https://www.brayandiazc.com)
 
-_Si crees que podemos colaborar o simplemente quieres intercambiar ideas, ¡hablemos!_
+---
 
-## 🧠 Blog, artículos y videos
-
-| Plataforma     | Enlace                                                             |
-| -------------- | ------------------------------------------------------------------ |
-| 📝 Blog        | [brayandiazc.com](https://brayandiazc.com)                         |
-| 🔗 LinkedIn    | [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc) |
-| ✍️ Medium      | [brayandiazc](https://medium.com/@brayandiazc)                     |
-| 💻 Dev.to      | [brayandiazc](https://dev.to/brayandiazc)                          |
-| 🖥️ CoderLegion | [brayandiazc](https://coderlegion.com/user/brayandiazc)            |
-| 🎥 YouTube     | [brayandiazc](https://www.youtube.com/@brayandiazc)                |
-| 🎬 TikTok      | [brayandiazc](https://tiktok.com/@brayandiazc)                     |
-| 📸Instagram    | [brayandiaz_c](https://www.instagram.com/brayandiaz_c/)            |
-
-## 💡 Habilidades y conocimientos
-
-### 🧑‍💻 Lenguajes de programación
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### 🎨 Desarrollo Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 🔨 Desarrollo Backend
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### 🗄️ Bases de datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ DevOps y PaaS
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-2B2D42?style=for-the-badge&logo=render&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+🧭 _Creando, enseñando y compartiendo tecnología._
+¡Gracias por visitar mi perfil! 🚀
