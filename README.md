@@ -21,7 +21,7 @@ Combino desarrollo, estrategia y docencia para ayudar a personas y empresas a cr
 
 ## 🎓 Faceta EdTech
 
-Integro la docencia con la práctica del desarrollo, diseñando experiencias formativas centradas en la creación de tecnología real.  
+Integro la docencia con la práctica del desarrollo, diseñando experiencias formativas centradas en la creación de tecnología real.
 He colaborado con instituciones y programas que impulsan la formación tecnológica en Latinoamérica:
 
 - 🧑‍🏫 **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular.
@@ -36,7 +36,7 @@ He colaborado con instituciones y programas que impulsan la formación tecnológ
 
 ## 🧠 Stack Tecnológico
 
-Mi trabajo combina herramientas que me permiten crear, escalar y enseñar tecnología de manera ágil y práctica.  
+Mi trabajo combina herramientas que me permiten crear, escalar y enseñar tecnología de manera ágil y práctica.
 Estas son las herramientas y tecnologías que utilizo con mayor frecuencia en mis proyectos y espacios formativos:
 
 ### ⚙️ Backend y APIs
@@ -71,7 +71,7 @@ Estas son las herramientas y tecnologías que utilizo con mayor frecuencia en mi
 
 ## 🧠 Blog, artículos y contenido
 
-Comparto guías, tutoriales y reflexiones sobre tecnología, desarrollo y aprendizaje práctico en diferentes plataformas.  
+Comparto guías, tutoriales y reflexiones sobre tecnología, desarrollo y aprendizaje práctico en diferentes plataformas.
 Mi enfoque: enseñar desde la experiencia y documentar el proceso de crear productos reales.
 
 | Plataforma      | Enlace                                                             | Enfoque principal                                    |
@@ -86,7 +86,7 @@ Mi enfoque: enseñar desde la experiencia y documentar el proceso de crear produ
 
 ## 🤝 ¿Conversamos?
 
-Si crees que podemos construir algo juntos o simplemente quieres intercambiar ideas, ¡hablemos!  
+Si crees que podemos construir algo juntos o simplemente quieres intercambiar ideas, ¡hablemos!
 Estoy abierto a colaboraciones, mentorías y proyectos que busquen crear tecnología con propósito.
 
 - 📧 **Email:** [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
