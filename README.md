@@ -6,12 +6,12 @@ Me apasiona construir productos tecnológicos que resuelvan problemas reales y c
 
 ## Proyectos
 
-| Proyecto                                            | Rol   | Qué aporta                                                                             |
-| --------------------------------------------------- | ----- | -------------------------------------------------------------------------------------- |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor | Blog personal donde comparto guías, artículos y recursos sobre desarrollo de software. |
-| **[Propietta](https://www.propietta.com/)**         | CTO   | Plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente.  |
-| **[Testigo](https://www.testigo.ai/)**              | CTO   | Solución para certificación de evidencias mediante IA y blockchain.                    |
-| **[Ora](https://www.oraki.com.co/)**                | CTO   | Guía espiritual que combina inteligencia artificial con sabiduría ancestral.           |
+| Proyecto                                            | Rol               | Qué aporta                                                                             |
+| --------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- |
+| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor             | Blog personal donde comparto guías, artículos y recursos sobre desarrollo de software. |
+| **[Propietta](https://www.propietta.com/)**         | CTO y Co-Fundador | Plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente.  |
+| **[Testigo](https://www.testigo.ai/)**              | CTO               | Solución para certificación de evidencias mediante IA y blockchain.                    |
+| **[Ora](https://www.oraki.com.co/)**                | CTO y Co-Fundador | Guía espiritual que combina inteligencia artificial con sabiduría ancestral.           |
 
 ## EdTech
 
