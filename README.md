@@ -30,26 +30,13 @@ He formado a cientos de desarrolladores en Latinoamérica a través de:
 
 ## 🛠️ Stack Tecnológico
 
-**Backend**
-Ruby on Rails, Python (Django, FastAPI), Node.js, Express
-
-**Frontend**
-HTML/CSS/JavaScript, React, Next.js, Hotwire/Stimulus
-
-**Mobile**
-Flutter, React Native
-
-**Bases de Datos**
-PostgreSQL, MongoDB, SQLite
-
-**DevOps & Cloud**
-Docker, CI/CD, Heroku, AWS, Vercel, Firebase, Supabase
-
-**IA & Automatización**
-OpenAI, Gemini, LangChain, n8n
-
-**Metodologías**
-Agile/Scrum, TDD, Git/GitHub
+- **Backend:** Ruby on Rails, Python (Django, FastAPI), Node.js, Express
+- **Frontend:** HTML/CSS/JavaScript, React, Next.js, Hotwire/Stimulus
+- **Mobile:** Flutter, React Native
+- **Bases de Datos:** PostgreSQL, MongoDB, SQLite
+- **DevOps & Cloud:** Docker, CI/CD, Heroku, AWS, Vercel, Firebase, Supabase
+- **IA & Automatización:** OpenAI, Gemini, LangChain, n8n
+- **Metodologías:** Agile/Scrum, TDD, Git/GitHub
 
 ## 📱 Encuéntrame
 
