@@ -24,25 +24,20 @@ Me apasiona construir productos tecnológicos que resuelvan problemas reales y c
 ## Stack
 
 - **Backend:** Ruby, Ruby on Rails, Python, Django, FastAPI, Node.js, Express.
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js, Tailwind CSS.
-- **Mobile:**
-- **Bases de datos:**
-- **DevOps & Cloud:**
-- **Herramientas & Otros:**
+- **Frontend:** HTML, CSS, JavaScript, Hotwire, Stimulus, React, Next.js.
+- **Mobile:** Flutter, React Native.
+- **Bases de datos:** PostgreSQL, SQLite, MongoDB.
+- **DevOps & Cloud:** Heroku, AWS, Vercel, Firebase, Supabase.
+- **Herramientas & Otros:** Git, GitHub, GitLab, Docker, CI/CD, TDD, Agile/Scrum.
+- **Inteligencia Artificial:** OpenAI, Gemini, LangChain, n8n.
 
 ## Publicaciones
 
-| Plataforma      | Enlace                                                             | Enfoque principal                                    |
-| --------------- | ------------------------------------------------------------------ | ---------------------------------------------------- |
-| 📝 **Blog**     | [brayandiazc.com](https://www.brayandiazc.com)                     | Guías técnicas, proyectos y recursos formativos      |
-| 🔗 **LinkedIn** | [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc) | Artículos, mentorías y experiencias profesionales    |
-| 💻 **Devto**    | [dev.to/brayandiazc](https://dev.to/brayandiazc)                   | Contenido para desarrolladores y comunidad tech      |
-| 🎥 **YouTube**  | [@brayandiazc](https://www.youtube.com/@brayandiazc)               | Tutoriales, charlas y recursos educativos visuales   |
-| ✍️ **Medium**   | [medium.com/@brayandiazc](https://medium.com/@brayandiazc)         | Publicaciones de divulgación y educación tecnológica |
+[brayandiazc.com](https://www.brayandiazc.com), [linkedin](https://linkedin.com/in/brayandiazc), [dev.to](https://dev.to/brayandiazc), [YouTube](https://www.youtube.com/@brayandiazc), [Medium](https://medium.com/@brayandiazc), [Instagram](https://instagram.com/brayandiaz_c), [Twitter](https://twitter.com/brayandiazc), [TikTok](https://www.tiktok.com/@brayandiazc)
 
 ## ¿Hablamos?
 
-Quieres desarrolle un proyecto, necesitas una asesoría o simplemente quieres intercambiar ideas.
+Necesitas desarrollar un proyecto, una asesoría o simplemente quieres intercambiar ideas.
 
 - 📧 **Email:** [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc)
