@@ -1,44 +1,70 @@
-# 👋 ¡Hola! Soy Brayan Díaz C
+# 👋 Brayan Díaz C
 
-## Desarrollador · Consultor Tecnológico · Docente
+**Desarrollador Full Stack · CTO · Docente EdTech**
 
-Me apasiona construir productos tecnológicos que resuelvan problemas reales y compartir lo que aprendo en el camino. Combino desarrollo, estrategia y docencia para ayudar a personas y empresas a crear soluciones digitales prácticas y escalables.
+Construyo productos digitales que resuelven problemas reales. Combino desarrollo, liderazgo técnico y docencia para ayudar a equipos y empresas a crear soluciones escalables.
 
-## Proyectos
+## 💼 Proyectos Destacados
 
-| Proyecto                                            | Rol               | Qué aporta                                                                             |
-| --------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- |
-| **[brayandiazc.com](https://www.brayandiazc.com/)** | Autor             | Blog personal donde comparto guías, artículos y recursos sobre desarrollo de software. |
-| **[Propietta](https://www.propietta.com/)**         | CTO y Co-Fundador | Plataforma inmobiliaria que convierte avisos físicos en puntos de acceso inteligente.  |
-| **[Testigo](https://www.testigo.ai/)**              | CTO               | Solución para certificación de evidencias mediante IA y blockchain.                    |
-| **[Ora](https://www.oraki.com.co/)**                | CTO y Co-Fundador | Guía espiritual que combina inteligencia artificial con sabiduría ancestral.           |
+**[brayandiazc.com](https://www.brayandiazc.com/)** — Blog Personal
+Guías prácticas, tutoriales y recursos sobre desarrollo de software.
 
-## EdTech
+**[Propietta](https://www.propietta.com/)** — CTO y Co-Fundador
+Plataforma inmobiliaria que digitaliza avisos físicos mediante códigos QR inteligentes.
 
-- 🧑‍🏫 **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular.
-- 🎓 **[Talento Digital CL](https://talentodigitalparachile.cl/)** — Asesor y Auditor en programas de formación tecnológica.
-- 💡 **[Inforcap](https://inforcap.cl/)** — Docente en desarrollo web y transformación digital.
-- 🚀 **[Desafío Latam](https://desafiolatam.com/)** — Docente y Diseñador Instruccional en programas EdTech.
-- 🏛️ **[Universidad del Desarrollo](https://udd.cl/)** — Docente en formación práctica de desarrollo web.
+**[Ora](https://www.oraki.com.co/)** — CTO y Co-Fundador
+Asistente espiritual que integra IA con sabiduría ancestral para guía personal.
 
-## Stack
+**[Testigo](https://www.testigo.ai/)** — CTO
+Sistema de certificación de evidencias digitales usando IA y blockchain.
 
-- **Backend:** Ruby, Ruby on Rails, Python, Django, FastAPI, Node.js, Express.
-- **Frontend:** HTML, CSS, JavaScript, Hotwire, Stimulus, React, Next.js.
-- **Mobile:** Flutter, React Native.
-- **Bases de datos:** PostgreSQL, SQLite, MongoDB.
-- **DevOps & Cloud:** Heroku, AWS, Vercel, Firebase, Supabase.
-- **Herramientas & Otros:** Git, GitHub, GitLab, Docker, CI/CD, TDD, Agile/Scrum.
-- **Inteligencia Artificial:** OpenAI, Gemini, LangChain, n8n.
+## 🎓 Experiencia en EdTech
 
-## Publicaciones
+He formado a cientos de desarrolladores en Latinoamérica a través de:
 
-[![Website](https://img.shields.io/badge/-brayandiazc.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.brayandiazc.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayandiazc) [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/brayandiazc) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@brayandiazc) [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@brayandiazc) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/brayandiaz_c) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/brayandiazc) [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brayandiazc)
+- **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular
+- **[Talento Digital Chile](https://talentodigitalparachile.cl/)** — Asesor y Auditor de programas de formación
+- **[Desafío Latam](https://desafiolatam.com/)** — Docente y Diseñador Instruccional
+- **[Universidad del Desarrollo](https://udd.cl/)** — Docente de Desarrollo Web
+- **[Inforcap](https://inforcap.cl/)** — Instructor en Transformación Digital
 
-## ¿Hablamos?
+## 🛠️ Stack Tecnológico
 
-Necesitas desarrollar un proyecto, una asesoría o simplemente quieres intercambiar ideas.
+**Backend**
+Ruby on Rails, Python (Django, FastAPI), Node.js, Express
 
-- 📧 **Email:** [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc)
-- 🌐 **Sitio web:** [brayandiazc.com](https://www.brayandiazc.com)
+**Frontend**
+HTML/CSS/JavaScript, React, Next.js, Hotwire/Stimulus
+
+**Mobile**
+Flutter, React Native
+
+**Bases de Datos**
+PostgreSQL, MongoDB, SQLite
+
+**DevOps & Cloud**
+Docker, CI/CD, Heroku, AWS, Vercel, Firebase, Supabase
+
+**IA & Automatización**
+OpenAI, Gemini, LangChain, n8n
+
+**Metodologías**
+Agile/Scrum, TDD, Git/GitHub
+
+## 📱 Encuéntrame
+
+[![Website](https://img.shields.io/badge/Web-brayandiazc.com-000?style=flat&logo=google-chrome)](https://www.brayandiazc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brayandiazc-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/brayandiazc)
+[![Dev.to](https://img.shields.io/badge/Dev.to-brayandiazc-0A0A0A?style=flat&logo=dev.to)](https://dev.to/brayandiazc)
+[![YouTube](https://img.shields.io/badge/YouTube-@brayandiazc-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@brayandiazc)
+[![Medium](https://img.shields.io/badge/Medium-@brayandiazc-000?style=flat&logo=medium)](https://medium.com/@brayandiazc)
+
+---
+
+## 💬 Contacto
+
+¿Tienes un proyecto en mente o necesitas asesoría técnica?
+
+📧 [brayandiazc@gmail.com](mailto:brayandiazc@gmail.com)
+💼 [linkedin.com/in/brayandiazc](https://linkedin.com/in/brayandiazc)
+🌐 [brayandiazc.com](https://www.brayandiazc.com)
