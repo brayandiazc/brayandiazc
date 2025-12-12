@@ -33,7 +33,7 @@ Me apasiona construir productos tecnológicos que resuelvan problemas reales y c
 
 ## Publicaciones
 
-[brayandiazc.com](https://www.brayandiazc.com), [linkedin](https://linkedin.com/in/brayandiazc), [dev.to](https://dev.to/brayandiazc), [YouTube](https://www.youtube.com/@brayandiazc), [Medium](https://medium.com/@brayandiazc), [Instagram](https://instagram.com/brayandiaz_c), [Twitter](https://twitter.com/brayandiazc), [TikTok](https://www.tiktok.com/@brayandiazc)
+[![Website](https://img.shields.io/badge/-brayandiazc.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.brayandiazc.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayandiazc) [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/brayandiazc) [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@brayandiazc) [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@brayandiazc) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/brayandiaz_c) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/brayandiazc) [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brayandiazc)
 
 ## ¿Hablamos?
 
