@@ -1,6 +1,6 @@
 # 👋 Brayan Díaz C
 
-**Desarrollador Full Stack · CTO · Docente EdTech**
+**Desarrollador Full Stack · Docente EdTech**
 
 Construyo productos digitales que resuelven problemas reales. Combino desarrollo, liderazgo técnico y docencia para ayudar a equipos y empresas a crear soluciones escalables.
 
