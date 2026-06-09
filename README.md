@@ -4,19 +4,12 @@
 
 Construyo productos digitales que resuelven problemas reales. Combino desarrollo, liderazgo técnico y docencia para ayudar a equipos y empresas a crear soluciones escalables.
 
-## 💼 Proyectos Destacados
+## 💼 Proyectos en los que trabajo actualmente
 
-**[brayandiazc.com](https://www.brayandiazc.com/)** — Blog Personal
-Guías prácticas, tutoriales y recursos sobre desarrollo de software.
-
-**[Propietta](https://www.propietta.com/)** — CTO y Co-Fundador
-Plataforma inmobiliaria que digitaliza avisos físicos mediante códigos QR inteligentes.
-
-**[Ora](https://www.oraki.com.co/)** — CTO y Co-Fundador
-Asistente espiritual que integra IA con sabiduría ancestral para guía personal.
-
-**[Testigo](https://www.testigo.ai/)** — CTO
-Sistema de certificación de evidencias digitales usando IA y blockchain.
+- **[brayandiazc.com](https://www.brayandiazc.com/)** — Blog Personal Guías prácticas, tutoriales y recursos sobre desarrollo de software.
+- **[Propietta](https://www.propietta.com/)** — CTO y Co-Fundador Plataforma inmobiliaria que digitaliza avisos físicos mediante códigos QR inteligentes.
+- **[Ora](https://www.oraki.com.co/)** — CTO y Co-Fundador Asistente espiritual que integra IA con sabiduría ancestral para guía personal.
+- **[Testigo](https://www.testigo.ai/)** — CTO Sistema de certificación de evidencias digitales usando IA y blockchain.
 
 ## 🎓 Experiencia en EdTech
 
