@@ -1,0 +1,19 @@
+# ==============================================================================
+# .gitignore — perfil de GitHub (brayandiazc/brayandiazc)
+# ==============================================================================
+
+# ── Sistema operativo ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editores / IDE ────────────────────────────────────────────────────────
+.idea/
+*.swp
+*~
+
+# ── Configuración de IA (solo local, no de cara al usuario) ────────────────
+# Toda la tooling de IA para mantener este perfil vive solo en local.
+# No se versiona para que el repo público quede limpio.
+.claude/
+AGENTS.md
+CLAUDE.md
