@@ -13,13 +13,14 @@ Construyo productos digitales que resuelven problemas reales. Combino desarrollo
 
 ## 🎓 Experiencia en EdTech
 
-He formado a cientos de desarrolladores en Latinoamérica a través de:
+He tenido la oportunidad de acompañar a cientos de personas y equipos de Latinoamérica en su camino por el desarrollo de software, la tecnología y la inteligencia artificial, a través de:
 
 - **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular
 - **[Talento Digital Chile](https://talentodigitalparachile.cl/)** — Asesor y Auditor de programas de formación
 - **[Desafío Latam](https://desafiolatam.com/)** — Docente y Diseñador Instruccional
 - **[Universidad del Desarrollo](https://udd.cl/)** — Docente de Desarrollo Web
 - **[Inforcap](https://inforcap.cl/)** — Instructor en Transformación Digital
+- **[Grupo Corporis](https://corporis.cl/)** — Instructor
 
 ## 🛠️ Stack Tecnológico
 
