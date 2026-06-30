@@ -6,10 +6,11 @@ Construyo productos digitales que resuelven problemas reales. Combino desarrollo
 
 ## 💼 Proyectos en los que trabajo actualmente
 
-- **[brayandiazc.com](https://www.brayandiazc.com/)** — Blog Personal Guías prácticas, tutoriales y recursos sobre desarrollo de software.
-- **[Propietta](https://www.propietta.com/)** — CTO y Co-Fundador Plataforma inmobiliaria que digitaliza avisos físicos mediante códigos QR inteligentes.
-- **[Ora](https://www.oraki.com.co/)** — CTO y Co-Fundador Asistente espiritual que integra IA con sabiduría ancestral para guía personal.
-- **[Testigo](https://www.testigo.ai/)** — CTO Sistema de certificación de evidencias digitales usando IA y blockchain.
+- **iqonno** — CTO y Cofundador. Empresa de servicios de desarrollo de software (en formación). Desde aquí lidero y construyo:
+  - **[Phareto](https://phareto.com/)** — Convierte bocetos, planos y capturas 3D en renders fotorrealistas para arquitectos en menos de un minuto, con IA.
+  - **[Propietta](https://propietta.com/)** — Plataforma inmobiliaria para vender sin intermediarios: aviso imprimible con QR, ficha pública con SEO y un chatbot de IA que califica prospectos y avisa por WhatsApp.
+- **[Testigo](https://www.testigo.ai/)** — CTO. Sistema de certificación de evidencias digitales con IA y blockchain.
+- **[brayandiazc.com](https://www.brayandiazc.com/)** — Blog personal con guías prácticas, tutoriales y recursos sobre desarrollo de software.
 
 ## 🎓 Experiencia en EdTech
 
@@ -18,9 +19,9 @@ He tenido la oportunidad de acompañar a cientos de personas y equipos de Latino
 - **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular
 - **[Talento Digital Chile](https://talentodigitalparachile.cl/)** — Asesor y Auditor de programas de formación
 - **[Desafío Latam](https://desafiolatam.com/)** — Docente y Diseñador Instruccional
-- **[Universidad del Desarrollo](https://udd.cl/)** — Docente de Desarrollo Web
-- **[Inforcap](https://inforcap.cl/)** — Instructor en Transformación Digital
-- **[Grupo Corporis](https://corporis.cl/)** — Instructor
+- **[Universidad del Desarrollo](https://udd.cl/)** — Docente
+- **[Inforcap](https://inforcap.cl/)** — Docente
+- **[Grupo Corporis](https://corporis.cl/)** — Docente
 
 ## 🛠️ Stack Tecnológico
 
