@@ -6,7 +6,7 @@ Construyo productos digitales que resuelven problemas reales. Combino desarrollo
 
 ## 💼 Proyectos en los que trabajo actualmente
 
-- **iqonno** — CTO y Cofundador. Empresa de servicios de desarrollo de software (en formación). Desde aquí lidero y construyo:
+- **[iqonno](https://iqonno.com/)** — CTO y Cofundador. Empresa de servicios de desarrollo de software (en formación). Desde aquí lidero y construyo:
   - **[Phareto](https://phareto.com/)** — Convierte bocetos, planos y capturas 3D en renders fotorrealistas para arquitectos en menos de un minuto, con IA.
   - **[Propietta](https://propietta.com/)** — Plataforma inmobiliaria para vender sin intermediarios: aviso imprimible con QR, ficha pública con SEO y un chatbot de IA que califica prospectos y avisa por WhatsApp.
 - **[Testigo](https://www.testigo.ai/)** — CTO. Sistema de certificación de evidencias digitales con IA y blockchain.
