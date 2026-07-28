@@ -10,6 +10,7 @@ Construyo productos digitales que resuelven problemas reales. Combino desarrollo
   - **[Phareto](https://phareto.com/)** — Convierte bocetos, planos y capturas 3D en renders fotorrealistas para arquitectos en menos de un minuto, con IA.
   - **[Propietta](https://propietta.com/)** — Plataforma inmobiliaria para vender sin intermediarios: aviso imprimible con QR, ficha pública con SEO y un chatbot de IA que califica prospectos y avisa por WhatsApp.
 - **[Testigo](https://www.testigo.ai/)** — CTO. Sistema de certificación de evidencias digitales con IA y blockchain.
+- **[GitHub Social Preview](https://github-social-preview.vercel.app/)** — Genera el banner de vista previa para tus repositorios de GitHub con dos temas y en un solo clic.
 - **[brayandiazc.com](https://www.brayandiazc.com/)** — Blog personal con guías prácticas, tutoriales y recursos sobre desarrollo de software.
 
 ## 🎓 Experiencia en EdTech
