@@ -6,12 +6,11 @@ Construyo productos digitales que resuelven problemas reales. Combino desarrollo
 
 ## 💼 Proyectos en los que trabajo actualmente
 
-- **[GitHub Social Preview](https://github-social-preview.vercel.app/)** Genera el banner de vista previa para tus repositorios de GitHub con dos temas y en un solo clic.
+- **[GitHub Social Preview](https://github-social-preview.vercel.app/)** Genera el banner de vista previa para tus repositorios de GitHub en un solo clic.
 - **[brayandiazc.com](https://www.brayandiazc.com/)** Blog personal con guías prácticas, tutoriales y recursos sobre desarrollo de software.
 - **[Testigo](https://www.testigo.ai/)** Certifica y asegura evidencia digital profesionalmente, sin enviar datos a servidores externos.
-- **[iqonno](https://iqonno.com/)** CTO y Cofundador. Empresa de servicios de desarrollo de software (en formación). Desde aquí lidero y construyo:
-  - **[Phareto](https://phareto.com/)** Convierte bocetos, planos y capturas 3D en renders fotorrealistas para arquitectos en menos de un minuto, con IA.
-  - **[Propietta](https://propietta.com/)** Plataforma inmobiliaria para vender sin intermediarios: aviso imprimible con QR, ficha pública con SEO y un chatbot de IA que califica prospectos y avisa por WhatsApp.
+- **[Phareto](https://phareto.com/)** Convierte bocetos, planos y capturas 3D en renders fotorrealistas en menos de un minuto.
+- **[Propietta](https://propietta.com/)** Plataforma inmobiliaria: aviso con QR, ficha pública y un chatbot que califica prospectos.
 
 ## 🎓 Experiencia en EdTech
 
