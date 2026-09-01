@@ -1,6 +1,6 @@
 # 👋 Brayan Díaz C
 
-**Desarrollador de Software, Consultor y Docente EdTech**
+## Desarrollador de Software, Consultor y Docente EdTech
 
 Construyo productos digitales que resuelven problemas reales. Combino desarrollo, liderazgo técnico y docencia para ayudar a equipos y empresas a crear soluciones escalables.
 
@@ -28,19 +28,15 @@ He tenido la oportunidad de acompañar a cientos de personas y equipos de Latino
 
 - **Backend:** Ruby on Rails, Python (Django, FastAPI), Node.js, Express
 - **Frontend:** HTML/CSS/JavaScript, React, Next.js, Hotwire/Stimulus
-- **Mobile:** Flutter, React Native
+- **Mobile:** React Native
 - **Bases de Datos:** PostgreSQL, MongoDB, SQLite
-- **DevOps & Cloud:** Docker, CI/CD, Heroku, AWS, Vercel, Firebase, Supabase
-- **IA & Automatización:** OpenAI, Gemini, LangChain, n8n
+- **DevOps & Cloud:** Docker, CI/CD, AWS, Vercel, Firebase, Cloudflare, Cloud VPS
+- **IA & Automatización:** Anthropic, OpenAI, Gemini, LangChain, n8n
 - **Metodologías:** Agile/Scrum, TDD, Git/GitHub
 
 ## 💬 Contacto
 
-¿Tienes un proyecto en mente o buscas asesoría técnica? Escríbeme o sígueme aquí:
+¿Tienes un proyecto en mente o buscas asesoría técnica? Escríbeme aquí:
 
 [![Email](https://img.shields.io/badge/Email-brayandiazc@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brayandiazc@gmail.com)
-[![Website](https://img.shields.io/badge/Web-brayandiazc.com-000?style=flat&logo=google-chrome)](https://www.brayandiazc.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brayandiazc-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/brayandiazc)
-[![Dev.to](https://img.shields.io/badge/Dev.to-brayandiazc-0A0A0A?style=flat&logo=devdotto)](https://dev.to/brayandiazc)
-[![YouTube](https://img.shields.io/badge/YouTube-@brayandiazc-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@brayandiazc)
-[![Medium](https://img.shields.io/badge/Medium-@brayandiazc-000?style=flat&logo=medium)](https://medium.com/@brayandiazc)
