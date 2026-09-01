@@ -16,12 +16,12 @@ Construyo productos digitales que resuelven problemas reales. Combino desarrollo
 
 He tenido la oportunidad de acompañar a cientos de personas y equipos de Latinoamérica en su camino por el desarrollo de software, la tecnología y la inteligencia artificial, a través de:
 
-- **[Adalid](https://www.adalid.cl/)** — Docente, Coordinador Académico y Diseñador Curricular
-- **[Talento Digital Chile](https://talentodigitalparachile.cl/)** — Asesor y Auditor de programas de formación
-- **[Desafío Latam](https://desafiolatam.com/)** — Docente y Diseñador Instruccional
-- **[Universidad del Desarrollo](https://udd.cl/)** — Docente
-- **[Inforcap](https://inforcap.cl/)** — Docente
-- **[Grupo Corporis](https://corporis.cl/)** — Docente
+- **[Adalid](https://www.adalid.cl/)** Docente, Coordinador Académico y Diseñador Curricular
+- **[Talento Digital Chile](https://talentodigitalparachile.cl/)** Asesor y Auditor de programas de formación
+- **[Desafío Latam](https://desafiolatam.com/)** Docente y Diseñador Instruccional
+- **[Universidad del Desarrollo](https://udd.cl/)** Docente
+- **[Inforcap](https://inforcap.cl/)** Docente
+- **[Grupo Corporis](https://corporis.cl/)** Docente
 
 ## 🛠️ Stack Tecnológico
 
