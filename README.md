@@ -2,20 +2,16 @@
 
 **CTO en Iqonno, consultor y docente.**
 
-> Si no se entiende, no está bien explicado.
-
-Hasta 2015 fui delineante de arquitectura. Un software interno lleno de problemas y un director de tecnología que me retó a aprender en vez de opinar me trajeron al código. Hoy construyo productos, asesoro a empresas y enseño a programar.
+_Si no se entiende, no está bien explicado_. Construyo productos, asesoro a empresas y enseño a programar.
 
 ## 💼 En qué trabajo
 
 - **[Iqonno](https://iqonno.com/)**: soy CTO.
   - **[Phareto](https://phareto.com/)**: convierte modelos 3D en renders y videos fotorrealistas.
+
+## 🧰 Proyectos personales
+
 - **[brayandiazc.com](https://www.brayandiazc.com/)**: guías prácticas y lo que aprendo construyendo software.
-
-## 🧰 Código abierto en español
-
-Herramientas que hago en mi tiempo libre. Entre todas suman más de 150 forks.
-
 - **[Project Starter Template](https://github.com/brayandiazc/project-starter-template-es)**: documentación profesional para arrancar cualquier proyecto. Tiene [versión lista para IA](https://github.com/brayandiazc/project-starter-template-es-ai).
 - **[GitHub Profile Template](https://github.com/brayandiazc/github-profile-template-es)**: plantilla para tu perfil de GitHub. Este perfil está hecho con ella.
 - **Dev Setup** para [Ubuntu/WSL](https://github.com/brayandiazc/dev-setup-ubuntu-es) y [macOS](https://github.com/brayandiazc/dev-setup-mac-es): scripts que montan tu entorno de desarrollo.
@@ -24,15 +20,12 @@ Herramientas que hago en mi tiempo libre. Entre todas suman más de 150 forks.
 
 ## 🎓 Docencia
 
-He formado desarrolladores en Latinoamérica en desarrollo de software, tecnología e inteligencia artificial:
+He acompañado a cientos de personas en Latinoamérica a aprender desarrollo de software, tecnología e inteligencia artificial:
 
 - **[Adalid](https://www.adalid.cl/)**: docente, coordinador académico y diseñador curricular
 - **[Talento Digital Chile](https://talentodigitalparachile.cl/)**: asesor y auditor de programas de formación
 - **[Desafío Latam](https://desafiolatam.com/)**: docente y diseñador instruccional
-- **[Universidad del Desarrollo](https://udd.cl/)**: docente
-- **[USACH](https://www.usach.cl/)**: docente
-- **[Inforcap](https://inforcap.cl/)**: docente
-- **[Grupo Corporis](https://corporis.cl/)**: docente
+- **Docente** en [Universidad del Desarrollo](https://udd.cl/), [USACH](https://www.usach.cl/), [Inforcap](https://inforcap.cl/) y [Grupo Corporis](https://corporis.cl/)
 
 ## 🛠️ Stack
 
@@ -42,8 +35,6 @@ He formado desarrolladores en Latinoamérica en desarrollo de software, tecnolog
 - **Base de datos:** PostgreSQL
 - **DevOps y nube:** Docker, CI/CD, AWS, Vercel, Firebase, Cloudflare, VPS
 - **IA y automatización:** Anthropic, OpenAI, Gemini, LangChain, n8n
-
-A veces no importa el lenguaje. Importa que resuelvas el problema.
 
 ## 💬 Contacto
 
