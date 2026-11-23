@@ -9,8 +9,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ### Changed
 
-- Perfil al día con el blog: titular «CTO en Iqonno, consultor y docente.» con la frase
-  de marca, Iqonno con Phareto (salen Testigo y Propietta), USACH y Grupo Corporis en
+- Perfil al día con el blog: titular «CTO en Iqonno, consultor y docente.», Iqonno con Phareto (salen Testigo y Propietta), USACH y Grupo Corporis en
   docencia, React Native para móvil y PostgreSQL como base de datos.
 - Docencia más corta: las instituciones donde el rol es solo docente van en una línea.
 

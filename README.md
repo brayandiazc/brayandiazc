@@ -2,7 +2,7 @@
 
 **CTO en Iqonno, consultor y docente.**
 
-_Si no se entiende, no está bien explicado_. Construyo productos, asesoro a empresas y enseño a programar.
+Construyo productos, asesoro a empresas y enseño a programar. Aquí encontrarás las plantillas y herramientas en español que publico para otros desarrolladores.
 
 ## 💼 En qué trabajo
 
