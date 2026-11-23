@@ -1,12 +1,12 @@
 # 👋 Brayan Díaz C
 
-**CTO en Iqonno, consultor y docente.**
+**Cofundador y CTO de Iqonno, consultor y docente.**
 
 Construyo productos, asesoro a empresas y enseño a programar. Aquí encontrarás las plantillas y herramientas en español que publico para otros desarrolladores.
 
 ## 💼 En qué trabajo
 
-- **[Iqonno](https://iqonno.com/)**: soy CTO.
+- **[Iqonno](https://iqonno.com/)**: soy cofundador y CTO.
   - **[Phareto](https://phareto.com/)**: convierte modelos 3D en renders y videos fotorrealistas.
 
 ## 🧰 Proyectos personales
