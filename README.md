@@ -1,41 +1,53 @@
 # 👋 Brayan Díaz C
 
-**Desarrollador de Software, Consultor y Docente EdTech**
+**CTO en Iqonno, consultor y docente.**
 
-Construyo productos digitales que resuelven problemas reales. Combino desarrollo, liderazgo técnico y docencia para ayudar a equipos y empresas a crear soluciones escalables.
+> Si no se entiende, no está bien explicado.
 
-## 💼 Proyectos en los que trabajo actualmente
+Hasta 2015 fui delineante de arquitectura. Un software interno lleno de problemas y un director de tecnología que me retó a aprender en vez de opinar me trajeron al código. Hoy construyo productos, asesoro a empresas y enseño a programar.
 
-- **[GitHub Social Preview](https://github-social-preview.vercel.app/)** Genera el banner de vista previa para tus repositorios de GitHub en un solo clic.
-- **[brayandiazc.com](https://www.brayandiazc.com/)** Blog personal con guías prácticas, tutoriales y recursos sobre desarrollo de software.
-- **[Testigo](https://www.testigo.ai/)** Certifica y asegura evidencia digital profesionalmente, sin enviar datos a servidores externos.
-- **[Phareto](https://phareto.com/)** Convierte bocetos, planos y capturas 3D en renders fotorrealistas en menos de un minuto.
-- **[Propietta](https://propietta.com/)** Plataforma inmobiliaria: aviso con QR, ficha pública y un chatbot que califica prospectos.
+## 💼 En qué trabajo
 
-## 🎓 Experiencia en EdTech
+- **[Iqonno](https://iqonno.com/)**: soy CTO.
+  - **[Phareto](https://phareto.com/)**: convierte modelos 3D en renders y videos fotorrealistas.
+- **[brayandiazc.com](https://www.brayandiazc.com/)**: guías prácticas y lo que aprendo construyendo software.
 
-He tenido la oportunidad de acompañar a cientos de personas y equipos de Latinoamérica en su camino por el desarrollo de software, la tecnología y la inteligencia artificial, a través de:
+## 🧰 Código abierto en español
 
-- **[Adalid](https://www.adalid.cl/)** Docente, Coordinador Académico y Diseñador Curricular
-- **[Talento Digital Chile](https://talentodigitalparachile.cl/)** Asesor y Auditor de programas de formación
-- **[Desafío Latam](https://desafiolatam.com/)** Docente y Diseñador Instruccional
-- **[Universidad del Desarrollo](https://udd.cl/)** Docente
-- **[Inforcap](https://inforcap.cl/)** Docente
-- **[Grupo Corporis](https://corporis.cl/)** Docente
+Herramientas que hago en mi tiempo libre. Entre todas suman más de 150 forks.
 
-## 🛠️ Stack Tecnológico
+- **[Project Starter Template](https://github.com/brayandiazc/project-starter-template-es)**: documentación profesional para arrancar cualquier proyecto. Tiene [versión lista para IA](https://github.com/brayandiazc/project-starter-template-es-ai).
+- **[GitHub Profile Template](https://github.com/brayandiazc/github-profile-template-es)**: plantilla para tu perfil de GitHub. Este perfil está hecho con ella.
+- **Dev Setup** para [Ubuntu/WSL](https://github.com/brayandiazc/dev-setup-ubuntu-es) y [macOS](https://github.com/brayandiazc/dev-setup-mac-es): scripts que montan tu entorno de desarrollo.
+- **[Gitmessage Template](https://github.com/brayandiazc/gitmessage-template-es)**: plantilla de mensajes de commit basada en Conventional Commits.
+- **[GitHub Social Preview](https://github-social-preview.vercel.app/)**: generador de vistas previas para tus repositorios.
+
+## 🎓 Docencia
+
+He formado desarrolladores en Latinoamérica en desarrollo de software, tecnología e inteligencia artificial:
+
+- **[Adalid](https://www.adalid.cl/)**: docente, coordinador académico y diseñador curricular
+- **[Talento Digital Chile](https://talentodigitalparachile.cl/)**: asesor y auditor de programas de formación
+- **[Desafío Latam](https://desafiolatam.com/)**: docente y diseñador instruccional
+- **[Universidad del Desarrollo](https://udd.cl/)**: docente
+- **[USACH](https://www.usach.cl/)**: docente
+- **[Inforcap](https://inforcap.cl/)**: docente
+- **[Grupo Corporis](https://corporis.cl/)**: docente
+
+## 🛠️ Stack
 
 - **Backend:** Ruby on Rails, Python (Django, FastAPI), Node.js, Express
 - **Frontend:** HTML/CSS/JavaScript, React, Next.js, Hotwire/Stimulus
-- **Mobile:** React Native
-- **Bases de Datos:** PostgreSQL, MongoDB, SQLite
-- **DevOps & Cloud:** Docker, CI/CD, AWS, Vercel, Firebase, Cloudflare, Cloud VPS
-- **IA & Automatización:** Anthropic, OpenAI, Gemini, LangChain, n8n
-- **Metodologías:** Agile/Scrum, TDD, Git/GitHub
+- **Móvil:** React Native
+- **Base de datos:** PostgreSQL
+- **DevOps y nube:** Docker, CI/CD, AWS, Vercel, Firebase, Cloudflare, VPS
+- **IA y automatización:** Anthropic, OpenAI, Gemini, LangChain, n8n
+
+A veces no importa el lenguaje. Importa que resuelvas el problema.
 
 ## 💬 Contacto
 
-¿Tienes un proyecto en mente o buscas asesoría técnica? Escríbeme aquí:
+¿Tienes un proyecto en mente o buscas asesoría técnica? Escríbeme:
 
 [![Email](https://img.shields.io/badge/Email-brayandiazc@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brayandiazc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brayandiazc-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/brayandiazc)
