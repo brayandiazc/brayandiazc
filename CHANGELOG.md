@@ -7,6 +7,16 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 
+### Changed
+
+- Perfil al día con el blog: titular «CTO en Iqonno, consultor y docente.», historia
+  de delineante de arquitectura, Iqonno con Phareto (salen Testigo y Propietta),
+  USACH en docencia, React Native para móvil y PostgreSQL como base de datos.
+
+### Added
+
+- Sección **Código abierto en español** con las plantillas y scripts.
+
 ## [1.0.0] - 2026-06-30
 
 ### Added
